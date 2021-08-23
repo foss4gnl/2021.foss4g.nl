@@ -1,0 +1,116 @@
+- 
+  date: "2019-06-20"
+  dateReadable: "20 juni"
+  title: "Presentaties"
+  tracks: 
+    - {title: "GROEN", color: "#90be4e"}
+    - {title: "BLAUW", color: "#03a9f4"}
+    - {title: "ROOD", color: "#e91e63"}
+  timeslots:
+    - {
+    	startTime: "9:15",
+    	endTime: "9:45",
+    	sessionIds: [800]
+    }
+    - {
+      startTime: "9:45",
+      endTime: "10:00",
+      sessionIds: [801]
+    }
+    - {
+      startTime: "10:00",
+      endTime: "10:45",
+      sessionIds: [901]
+    }
+    - {
+      startTime: "10:45",
+      endTime: "11:15",
+      sessionIds: [902]
+    }
+    - {
+      startTime: "11:15",
+      endTime: "11:45",
+      sessionIds: [802]
+    }
+    - {
+      startTime: "11:45",
+      endTime: "13:00",
+      sessionIds: [6,16,22]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [11,14,10]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [17,4,12]
+    }
+    - {
+      startTime: "13:00",
+      endTime: "14:00",
+      sessionIds: [803]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "14:50",
+      sessionIds: [2,24,9]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [21,7,23]
+    }    
+    - {
+      startTime: "14:50",
+      endTime: "15:20",
+      sessionIds: [802]
+    }
+    - {
+      startTime: "15:20",
+      endTime: "16:10",
+      sessionIds: [18,5,1]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [20,8,3]
+    }
+    - {
+      startTime: "16:10",
+      endTime: "16:40",
+      sessionIds: [903]
+    }
+    - {
+      startTime: "16:40",
+      endTime: "17:00",
+      sessionIds: [804]
+    }
+    - {
+      startTime: "17:00",
+      endTime: "",
+      sessionIds: [805]
+    }
+- 
+  date: "2019-06-20"
+  dateReadable: "20 juni"
+  title: ""
+  subtitle: ""
+  image: "other/maptime_track_logo.svg"
+  timeslots:
+    - {
+      startTime: "11:45",
+      endTime: "13:00",
+      sessionIds: [401]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "14:50",
+      sessionIds: [402]
+    }
+    - {
+      startTime: "15:20",
+      endTime: "16:10",
+      sessionIds: [402]
+    }

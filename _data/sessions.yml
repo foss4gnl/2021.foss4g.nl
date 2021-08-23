@@ -1,0 +1,278 @@
+-
+  id: 800
+  title: "Registratie"
+  service: true
+-
+  id: 801
+  title: "Opening"
+  service: true
+-
+  id: 802
+  title: "Koffie"
+  service: true
+-
+  id: 803
+  title: "Lunch"
+  service: true
+-
+  id: 804
+  title: "Afsluiting"
+  service: true
+-
+  id: 805
+  title: "Borrel"
+  service: true
+-
+  id: 100
+  title: "Parallelle presentaties"
+  description: ""
+  subtype: presentation
+  speakers: [0]
+  language: "Nederlands"
+-
+  id: 101
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [0]
+  language: "Nederlands"
+-
+  id: 901
+  title: "Opening keynote"
+  subtype: presentation
+  description: "Athina Trakas is Director Regional Services bij het Open Geospatial Consortium (OGC): Dé
+standaardenorganisatie op het gebied van geografische informatie. Al jaren is zij het gezicht van OGC in
+Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengebied."
+  speakers: [1]
+  language: "English"
+-
+  id: 902
+  title: "Keynote"
+  subtype: presentation
+  description: "Edzer Pebesma is Professor of geoinformatics aan de universiteit van Münster. Een Nederlander in
+internationale context. Zijn specialiteit is ruimte-tijd modellering, maar hij is misschien nog bekender om
+zijn werk in en met R. Zijn keynote heeft de allesverklarende titel “R Spatial”."
+  speakers: [2]
+  language: "English"
+-
+  id: 903
+  title: "Afsluitende Keynote"
+  subtype: presentation
+  description: "Lene Fischer is Associate Professor aan de Universiteit van Kopenhagen. Naast haar reguliere werk is zij
+bijzonder actief in de QGIS community: het lukte haar de QGIS developer meeting naar Nodebo te halen
+(u weet wel, van die QGIS versie) en zet zich hard in voor het QGIS trainingsmateriaal. Zij vertelt over
+communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haar werk."
+  speakers: [3]
+  language: "English"
+-
+  id: 401
+  title: "Browser-based mapping with D3.js and deck.gl for interactive exploration & communication"
+  subtype: presentation
+  description: "We will use webGL technologies for fast rendering of large data sets with underlying tile streetmaps and the D3 javascript library for more creative freedom in the browser. I will show examples of how I used such maps to make election, health, police and various open source data insightful for newspaper readers online."
+  speakers: [9]
+-
+  id: 402
+  title: "GeoFiction & Roadmapping"
+  subtype: presentation
+  description: "Roadmapping is ontwikkeld om op een speelse, entertainende wijze zowel de zachte als de harde kant van processen in kaart te zetten, te duiden, te bespreken en vorm te geven. Het is een katalysator voor dialoog  en zit vol met humor, reflectie, en creativiteit. Het entertainende element van roadmapping draagt bij aan het beklijven van nieuwe informatie en ideeën, zie ook  http://studiokessler.com/workshops/roadmapping/corporate/roadmap-methodiek/"
+  speakers: [10]
+-
+  id: 403
+  title: "Dashboard prototyping in R"
+  subtype: presentation
+  description: "Shiny is een open source R package waarmee je snel prototypes voor interactieve web applicaties kunt maken. In de workshop gaan we een dashboard bouwen, waarbij we niet alleen gebruik maken van Shiny, maar ook van de JavaScript libraries Leaflet en Plotly. En natuurlijk van het sf package mede-ontwikkeld door keynote speaker Edzer Pebesma!"
+  speakers: [11]
+-
+  id: 1
+  title: "Terabytes aan wegdata in je database. Wat doe je ermee?"
+  description: "Met behulp van postgis, clickhousedb en een beetje R laat ik zien wat de mogelijkheden van de database zijn voor het analyseren van grote hoeveelheden sensor/verkeersdata. Veel datavis en een beetje SQL komen aan bod."
+  subtype: presentation
+  speakers: [4]
+  language: "Nederlands"
+-
+  id: 2
+  title: "QGIS plugins for hydrology"
+  description: "QGIS 3 has many useful features and plugins for hydrologists. Inspired by questions from students at IHE Delft Institute for Water Education, two new plugins were developed at the QGIS Hackfest in A Coruña in March 2019.
+This presentation will give an overview of the state of the art of hydrological tools in QGIS, online resources and how to contribute to further development of the tools."
+  subtype: presentation
+  speakers: [5]
+  language: "English"
+-
+  id: 3
+  title: "Effe QGIS naar het Nederlands vertalen..."
+  description: "Interactieve sessie waarin wordt getoond hoe het vertalen van QGIS in zijn werk gaat en wat daar zoal bij komt kijken. Inclusief voorbeelden van wat er mis kan gaan en GIS-terminologie die zich toch wel lastig laat vertalen."
+  subtype: presentation
+  speakers: [6]
+  language: "Nederlands"
+-
+  id: 4
+  title: "Wat we van esri kunnen leren..."
+  description: "Veel opensource-GIS software behoort tot de beste in de wereld, en is nog gratis ook. Toch wordt op veel plekken voor veel geld producten van proprietary leveranciers aangeschaft en gebruikt.
+
+Naar onze mening komt dat vooral door de diensten van deze leveranciers. Zo komen ze vertellen welke software je nodig hebt voor je probleem, hoe je de software kunt inzetten in je bedrijfsprocessen en kunt integreren met andere software. Er is een helpdesk die je kunt bellen als je een probleem hebt en bij elk softwareproduct hoort een training. Daarmee ontzorgen de softwareleveranciers hun klanten.
+
+LandGoed wil voor opensource-GIS die rol als leverancier vervullen, en organisaties en gebruikers ontzorgen. 
+
+Hoe we dat denken te doen en hoe we daarbij om willen gaan met de community? Daar hebben we allerlei ideeën over. We leggen ze uit op 20 juni. En horen dan graag van jou of dat goede ideeën zijn, of dat het misschien nog beter kan."
+  subtype: presentation
+  speakers: [7]
+  language: "Nederlands"
+-
+  id: 5
+  title: "LandGoed QGIS-NL: Meer dan de som der delen"
+  description: "QGIS vormt een open systeem. Je kunt er allerlei dingen aan toevoegen, maar ook uit verwijderen. Dit geeft de ruimte om QGIS helemaal toe te snijden op een specifieke toepassing. Wij geloven dat het op maat snijden van QGIS zichzelf in een organisatie altijd terugverdient.
+
+Voor Nederlandse toepassingen hebben we daar vast een begin mee gemaakt. Door het combineren van allerlei code in de vorm van open plugins, het maken van eigen plugins (ook open) en nog wat code fragmenten uit het publieke domein, met een slimme configuratie en redactie op inhoud, hebben we nu QGIS-NL.
+
+In deze presentatie leggen we uit wat de meerwaarde is van QGIS-NL, hoe we hem hebben gemaakt uit open componenten, en hoe we omgaan met het delen van onze eigen toevoegingen. Onderweg leer je gelijk in QGIS werken met Ruimtelijke Plannen, de BGT en het soepel gebruiken van de BAG WFS."
+  subtype: presentation
+  speakers: [8]
+  language: "Nederlands"
+-
+  id: 6
+  title: " Getting the most out of Google Earth Engine"
+  description: "Google Earth Engine (EE) is a Cloud-based analysis platform that has disrupted EO research community over the last years by providing a way to freely process petabyte-large geospatial datasets. I will give an overview of the main features of EE from software developer and remote sensing research perspectives. Several applications developed using EE at Deltares will be demonstrated, as well as do's and don'ts."
+  subtype: presentation
+  speakers: [12]
+  language: "English"
+-
+  id: 7
+  title: "Wat doet een aannemer met Open Source GIS?"
+  description: ""
+  subtype: presentation
+  speakers: [13]
+  language: "Nederlands"
+-
+  id: 8
+  title: "Cartiqo: 10 jaar geo-kennis in 1 kaartservice"
+  description: "Cartiqo is een nieuwe kaartservice van Webmapper. De kaarten zijn gebaseerd op open data en maken gebruik van vector-technologie. In de presentatie vertellen we je hoe we onze kennis van basisregistraties, OpenStreetMap, cartografie en Web-technologie sinds het maken van de BRT-Achtergrondkaart in 2009 hebben samengebracht in Cartiqo en hoe je zelf aan de slag kan met deze kaartservice voor je eigen applicaties."
+  subtype: presentation
+  speakers: [14]
+  language: "Nederlands"
+-
+  id: 9
+  title: "Geo bij stembureus, verkiezingsuitslagen en andere open data"
+  description: "Bij de Open State Foundation verzamelen we al een paar jaar alle locaties en informatie van alle stembureaus in Nederland en nu ook de uitslagen van de verkiezingen. Als algemeen aanjager van open data in Nederland komen we vaker met geo in aanraking. Waar lopen we tegen aan? Wat gaat er goed?"
+  subtype: presentation
+  speakers: [15]
+  language: "Nederlands"
+-
+  id: 10
+  title: "Het einde van catalogi of hoe OGC-API's het geo landschap gaan veranderen."
+  description: "Wie had kunnen vermoeden dat tijdens het Geo4Web testbed enkele jaren terug de fundamenten gelegd zijn die nu ingezet worden om de nieuwe OGC API's te ontwerpen. De OGC-API's bouwen op de OpenApi Specification, hebben json en html als primaire encodings en zijn daardoor goed doorzoekbaar door zoekmachines. Je hebt straks geen catalogus meer nodig om datasets en features te vinden, maar gewoon via de populaire zoek machines. In deze presentatie aandacht voor de interactieve API ontwikkeling bij OGC en onze ervaringen bij de ontwikkeling van pyGeoAPI, een OGC-API's implementatie in Python op basis van het Flask framework."
+  subtype: presentation
+  speakers: [16]
+  language: "Nederlands"
+-
+  id: 11
+  title: "Earth Observation beyond Google Earth Engine"
+  description: "The enormous increase of earth observation data triggers new ways of access to data and big data processing and analysis. At present EO cloud based platforms are popping up everywhere with cryptic names like DIAS, TEP, CGS, MEP, EOSC and EOSDIS to name a few. This presentation aims to give a concise introduction in this forest of clouds and to discuss the national and international user needs, first experiences, expectations and concerns."
+  subtype: presentation
+  speakers: [17]
+  language: "English"
+-
+  id: 12
+  title: "pygeoapi: Python implementatie van de OGC WFS v3 standaard"
+  description: "Er is een nieuwe versie van de OGC Web Feature Service (WFS) standaard: WFS versie 3. Het verschil tussen WFS 3.0 en de huidige versie, 2.0 is groot. WFS 3.0 is REST-gebaseerd. De standaard is samen met ontwikkelaars opgezet in GitHub. Er is nu een stabiele conceptversie van WFS 3.0 beschikbaar. 
+
+Het Open Source project 'pygeoapi' implementeert deze standaard in Python. Bijzonder is dat via een zgn 'GDAL/OGR-Connector' veel bestaande dataset-formaten waaronder WFS v2, GeoPackage en zelf Shapefiles, gemakkelijk te ontsluiten zijn. Zie meer op https://pygeoapi.io en de demo server https://demo.pygeoapi.io"
+  subtype: presentation
+  speakers: [18]
+  language: "Nederlands"
+-
+  id: 13
+  title: "Een GeoCat Bridge voor QGIS"
+  description: "Mogelijk heb je GeoCat Bridge voor ArcMAP al eens voorbij zien komen. Een single-click publicatie plugin voor het ArcGIS platform om data in de osgeo stack te publiceren. Dezer dagen werken we aan een plugin in QGIS die dezelfde user experience geeft. De plugin wordt gebouwd bovenop (en samen met de bouwers van) de Boundless QGIS GeoServer plugin. Hopelijk kan ik rond foss4gnl al de eerste prototypes tonen. De plugin is mede mogelijk gemaakt door recente verbeteringen in QGIS rond metadata support."
+  subtype: presentation
+  speakers: [16]
+  language: "Nederlands"
+-
+  id: 14
+  title: "Open Source helpt Natuurgebieden"
+  description: "In welke natuurgebieden hebben we blauwgrasland? Hoe ontwikkelt een natuurgebied zich? Om dit soort vragen te kunnen beantwoorden, is informatie nodig. De samenwerkende provincies, natuurorganisaties en terreinbeheerders verzamelen data over natuurgebieden en maken vegetatie- en habitatkarteringen om te zorgen voor goed beheer en biodiversiteit. In deze presentatie vertellen we over het ontwikkeltraject van de 'Nationale Databank voor Vegetatie en Habitats'. Deze databank is door een High Performance Team in tien sprints van drie weken opgezet met Open Source Software.
+ 
+De continue terugkoppeling vanuit gebruikers en stakeholders heeft ervoor gezorgd dat in een korte tijd de Nationale databank met de gewenste functionaliteiten is ontwikkeld. Tijdens de presentatie vertellen we over de aanpak van dit project en leggen we uit hoe de databank werkt en hoe het helpt de natuur in Nederland te verbeteren."
+  subtype: presentation
+  speakers: [19]
+  language: "Nederlands"
+-
+  id: 15
+  title: "Extracting data from OpenStreetMap"
+  description: "Open Source Software and tools are readily available and you can use all of your creativity and imagination to start the application you envision. In this data driven world, even the best application is worthless without proper data sources. The Dutch site PDOK.nl provides splendid data, but what if you want more, or if you are looking for data outside of the Netherlands?
+ 
+OpenStreetMap is very popular as a basemap in many webmap applications, but it has much more to offer than just being the bottom layer of your map. In this presentation I will show how to extract (vector) data from OpenStreetMap and how you can use that in your application."
+  subtype: presentation
+  speakers: [19]
+  language: "English"
+-
+  id: 16
+  title: "QGIS voor humanitaire hulp"
+  description: "QGIS word op vele verschillende manier toegepast, waar mensen vaak niet bij stil staan is het gebruik deze tools in een humanitaire setting. Maar waar moeten we dan aan denken? Bij 510 een initiatief van het Nederlandse Rode Kruis word QGIS onder andere gebruikt om snel, kwalitatief en effectief humanitaire hulp in te kunnen zetten aan de hand van data en digitale producten. Tijdens deze presentatie gaan we verder in op een aantal specifieke voorbeelden hoe we data vertalen naar de toepassing in het veld."
+  subtype: presentation
+  speakers: [20]
+  language: "Nederlands"
+-
+  id: 17
+  title: "Discussion Ready Data: how state of the art Remote Sensing services contribute to sustainability"
+  description: "If you are interested in state of the art #remotesensing to support #sustainable commodity supply chains, come by at my talk at @foss4gnl next month. From multisensor probabilistic change detection to why we need to put politics back in data and rage against the machine "
+  subtype: presentation
+  speakers: [21]
+  language: "English"
+-
+  id: 18
+  title: "How to make a crafty Vector Tile map: Custom tiles, the perfect sprite, animating stuff and random hot air balloons!"
+  description: "Vector tiles are a challenge for the creative mind. In this talk we will take you along the path of making artistic styles for your vector tiles like this Crafty map, this 1940 style map and the Paradise in the Polder map. Starting from the importance of having a good and clear tile set to making your own sprites and glyphs with command line tools and software like Inkscape and Gimp.
+After that we show some trick to add animation with Turf.js and D3.js. Like placing random hot air balloons all over your map!
+Vector tiles are on the cutting edge of technology and creativity, we combine both to show you the endless possibilities that vector tiles offer!"
+  subtype: presentation
+  speakers: [22]
+  language: "English"
+-
+  id: 19
+  title: "Cartiqo: Building a national vector tile set for the Netherlands"
+  description: "The road traveled to get to a consistent, accurate and fast national vector tile set: Over the past two years we've been testing various open source tools to create and maintain cartiqo: a vector tile set for the Netherlands aimed at creating beautiful webmaps. In this talk we discuss these various tools and explain why we went with Tegola. Building a harmonized vector tile set based on various open data sources takes more than simply stuffing geometries in tiles. We will discuss the issues we encountered, the choices we made and show some examples what you can do with a rich harmonized vector tile set.
+
+By the end of this talk you should be able to build your own national vector tile set."
+  subtype: presentation
+  speakers: [23]
+  language: "English"
+-
+  id: 20
+  title: "Accurate, Detailed and Automatic Tree Modelling from Point Clouds"
+  description: "In this work we conduct accurate 3D tree modelling from individual tree point clouds. From the tree point cloud the minimum spanning tree is extracted and simplified to represent the tree skeleton. By fitting branch cylinders we reconstruct accurate tree models with branches. Leaves and textures are added to enhance the realism of the tree model."
+  subtype: presentation
+  speakers: [24]
+  language: "English"
+-
+  id: 21
+  title: "CityJSON: A compact and developer-friendly JSON-based encoding of the CityGML data model"
+  description: "
+I will present an overview of CityJSON (https://cityjson.org), a JSON-based encoding for the OGC CityGML data model, which is an open standardised data model and exchange format to store digital 3D models of cities and landscapes. The aim of CityJSON is to offer an alternative to the GML encoding of CityGML, which can be verbose and complex (and thus rather frustrating to work with). CityJSON aims at being easy-to-use, both for reading datasets, and for creating them. It was designed with programmers in mind, so that tools and APIs supporting it can be quickly built, and several have been created already.
+
+I will present the software ecosystem that has been built so far: a QGIS plugin, (web-)viewers, a CLI to process and manipulate CityJSON files, converters (CityGML <-> CityJSON), and different software have now reading/writing capabilities. All of these are open-source."
+  subtype: presentation
+  speakers: [25]
+  language: "English"
+-
+  id: 22
+  title: "SDI.Next: een nieuwe generatie geo-standaarden"
+  description: "Overheids-Nederland zit al jaren op een vaste set geostandaarden die toegepast moeten worden. Dit is vastgelegd in de lijst Open Standaarden van het Forum Standaardisatie in het Verplichte deel (pas toe leg uit). Volgens deze lijst is GML het uitwisselformaat, WMS en WFS de web service standaarden voor tonen van kaarten en downloaden van geodata via het web, en ISO19115 en ISO19119 de standaarden voor het vastleggen van metadata over datasets en services. 
+De laatste jaren is echter het inzicht ontstaan dat deze standaarden wel toe te passen zijn door geo-experts, maar buiten de geowereld te onbekend en te ingewikkeld zijn. Willen we geodata breder gebruikt krijgen, dan moeten de geostandaarden toegankelijker worden. De ontwikkeling van web-vriendelijke geostandaarden is inmiddels in gang gezet met bijvoorbeeld de nieuwe 3.0 versie van WFS, die in directe interactie met developers tot stand is gekomen. Maar ook kijken we naar mogelijke opvolgers van GML en het koppelen van de oude ISO metadatastandaarden aan DCAT en Schema.org. In de presentatie geef ik een overzicht van deze ontwikkelingen."
+  subtype: presentation
+  speakers: [26]
+  language: "Nederlands"
+-
+  id: 23
+  title: "Stuntelen met spreadsheets of toveren met tabellen in QGIS"
+  description: "In dit jaar met verkiezingen voor de Provinciale Staten en voor het Europees Parlement komt er via allerlei bronnen een hoop data beschikbaar die het meer dan waard is om op kaart weer te geven. Veel van dit soort data wordt als spreadsheet aangeleverd en dan nog vaak als Excel bestand. Alsof er geen open standaarden bestaan... 
+  In deze sessie laat ik zien hoe je met een aantal minder bekende QGIS-opties en -plugins die spreadsheetdata zelfs in Excel-formaat niet alleen effectief maar ook flexibel in QGIS kunt gebruiken. Daarbij komen als bonus nog wat speciale kaartvormen aan bod."
+  subtype: presentation
+  speakers: [27]
+  language: "Nederlands"
+-
+  id: 24
+  title: "De Omgevingswet als Open Instrument"
+  description: "De nieuwe Omgevingswet, die naar verwachting in 2021 in werking zal treden, bevat nieuwe digitale publicatieplichten voor beleidsmakers en beoogt de maatschappij en overheid een gelijke informatiepositie te geven rond ruimtelijke inrichting. De Provincie Zuid Holland werkt aan open source software om conform de eisen beleid op te stellen en te publiceren, waarbij nieuwe functies als tijdreizen en geo-referentie van beleid zijn voorzien. Deze presentatie geeft een overzicht van de architectuur van het project, waar het project nu staat en een blik op de toekomst. "
+  subtype: presentation
+  speakers: [28]
+  language: "Nederlands"

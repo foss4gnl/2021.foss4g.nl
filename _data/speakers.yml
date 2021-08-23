@@ -1,0 +1,340 @@
+-
+  id: 1
+  name: "Athina"
+  surname: "Trakas"
+  company: "Open Geospatial Consortium"
+  title: "Director Regional Services"
+  bio: "Athina Trakas is Director Regional Services bij het Open Geospatial Consortium (OGC): Dé
+standaardenorganisatie op het gebied van geografische informatie. Al jaren is zij het gezicht van OGC in
+Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengebied."
+  thumbnailUrl: AthinaTrakas.png
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/athinatrakas/"}
+    - {name: "twitter", link: "https://twitter.com/trakasa"}
+  rockstar: true
+-
+  id: 2
+  name: "Edzer"
+  surname: "Pebesma"
+  company: "Universiteit van Münster"
+  title: "Professor of geoinformatics"
+  bio: "Edzer Pebesma is Professor of geoinformatics aan de universiteit van Münster. Een Nederlander in
+internationale context. Zijn specialiteit is ruimte-tijd modellering, maar hij is misschien nog bekender om
+zijn werk in en met R. Zijn keynote heeft de allesverklarende titel “R Spatial”."
+  thumbnailUrl: EdzerPebesma.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/edzer/"}
+    - {name: "twitter", link: "https://twitter.com/edzerpebesma"}
+  rockstar: true
+-
+  id: 3
+  name: "Lene"
+  surname: "Fischer"
+  company: "Universiteit van Kopenhagen"
+  title: "Associate Professor"
+  bio: "Lene Fischer is Associate Professor aan de Universiteit van Kopenhagen. Naast haar reguliere werk is zij
+bijzonder actief in de QGIS community: het lukte haar de QGIS developer meeting naar Nodebo te halen
+(u weet wel, van die QGIS versie) en zet zich hard in voor het QGIS trainingsmateriaal. Zij vertelt over
+communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haar werk."
+  thumbnailUrl: LeneFischer.jpeg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/lene_fischer"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lene-fischer-6576636/"}
+  rockstar: true
+-
+  id: 4
+  name: "Tom"
+  surname: "van Tilburg"
+  company: "Geodan"
+  title: ""
+  bio: ""
+  thumbnailUrl: TomVanTilburg.jpg
+  social: 
+      - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 5
+  name: "Hans"
+  surname: "van der Kwast"
+  company: "IHE Delft"
+  title: ""
+  bio: "Onderwijs en capaciteits ontwikkeling voor de water sector in ontwikkelingslanden op het gebied van GIS, SDI en remote sensing. Uiteraard met open source software en open courseware."
+  thumbnailUrl: HansVanDerKwast.jpg
+  social: 
+        - {name: "twitter", link: "https://twitter.com/hansakwast"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/jvdkwast/"}
+        - {name: "youtube", link: "https://www.youtube.com/c/HansvanderKwast"}
+  rockstar: true
+-
+  id: 6
+  name: "Raymond"
+  surname: "Nijssen"
+  company: "Terglobo"
+  title: ""
+  bio: "Raymond Nijssen werkt al ruim tien jaar als zelfstandig open source GIS-adviseur onder de naam Terglobo en is lid van de coöperatie OpenGeoGroep.
+Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor regelmatig internationale bijeenkomsten."
+  thumbnailUrl: RaymondNijssen.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 7
+  name: "Erik"
+  surname: "Meerburg"
+  company: "LandGoed"
+  title: ""
+  bio: "Onderwijs, overheid, not-for-profit, en nu sinds kort een BV. Het kan raar lopen. Heeft met de Geo Academie jarenlang mensen leren werken met (open) GIS. Doet dat nog steeds, uitgebreid met support op opensource-GIS, in LandGoed"
+  thumbnailUrl: ErikMeerburg.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/geogoeroe"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/erik-meerburg-53a8055/"}
+    - {name: "site", link: "https://www.landgoed.it"}
+  rockstar: true
+-
+  id: 8
+  name: "Marco"
+  surname: "Duiker"
+  company: "LandGoed"
+  title: ""
+  bio: "Alles geo. Bij voorkeur vernieuwend, altijd klantgericht. Sinds kort als technisch directeur van LandGoed"
+  thumbnailUrl: MarcoDuiker.jpg
+  social: 
+    - {name: "site", link: "https://www.landgoed.it"}
+  rockstar: true
+-
+  id: 9
+  name: "Mirjam"
+  surname: "Leunissen"
+  company: "De Volkskrant"
+  title: ""
+  bio: "I am an Amsterdam-based data journalist and data visualization specialist with a scientific background in physics (PhD) and chemistry (MSc). Most of my time I work for national newspaper de Volkskrant, but I sometimes have other side projects and presentations for companies, government or academia under the name Dutch Data Design."
+  thumbnailUrl: MirjamLeunissen.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dutchdatadesign/"}
+    - {name: "twitter", link: "https://twitter.com/dutchdatadesign"}
+    - {name: "site", link: "http://dutchdatadesign.nl/"}
+  rockstar: true
+-
+  id: 10
+  name: "Martijn"
+  surname: "Kessler"
+  company: "Studio Kessler"
+  title: ""
+  bio: "Zolang ik mij kan herinneren zie ik de wereld, en alles wat zich daarbinnen afspeelt, in kaarten en maquettes. Naarmate ik ouder werd ontdekte ik dat deze manier van kijken wezenlijk anders is dan gebruikelijk. Gedreven door de oneindige behoefte om de wereld en alle aspecten van het leven te spiegelen in kaartvorm, ben ik de Vrije Academie gaan volgen en heb ik het medium verder ontwikkeld. Iedere organisatie en iedere familie zie ik als een op zichzelf staande, unieke wereld die ik kan vertalen naar cartografie. De voldoening die een groep ervaart in het samen werken aan een kaart beschouw ik zelf als een van mijn grootste verdiensten.
+
+  In 1989 vestigde ik mij vanuit Den Haag met mijn studio op Landgoed de Olmenhorst in Lisserbroek. Eind 1990, na een aantal landelijke publicaties over mijn werk, ontwikkelde ik mijn concept voor geofictieve bedrijfsworkshops en evenementen. Het bleek een gouden greep. Associatieve cartografie bleek een bijzondere verbindende en onthullende werking te hebben in groepsprocessen.  Ik raakte steeds enthousiaster over de mogelijkheden die het medium bood om draagvlak te vinden in veranderingsprocessen. Via grote opdrachten, studie en de feedback van mijn klanten en partners ontwikkelde zich de roadmap-methodiek. De laatste jaren geef ik leiding aan een snel ontwikkelende en groeiende organisatie en werk ik met veel plezier aan uiteenlopende kunst- en communicatie projecten."
+  thumbnailUrl: MartijnKessler.jpg
+  social:
+    - {name: "site", link: "http://studiokessler.com/"}
+    - {name: "twitter", link: "https://twitter.com/martijnkessler"}
+  rockstar: true
+-
+  id: 11
+  name: "Willy"
+  surname: "Tadema"
+  company: "Provincie Groningen"
+  title: ""
+  bio: 'Als data engineer en informatiearchitect ben ik werkzaam voor de provincies Groningen en Zuid-Holland. Mijn specialisaties zijn geo-informatie, basisregistraties en open data. Ik ben co-auteur van het <a href="https://cran.r-project.org/web/packages/nlgeocoder/index.html">nlgeocoder</a> package en <a href="https://github.com/TWIAV/Spatial_Analysis_in_R_with_Open_Geodata">Spatial Analysis in R with Open Geodata</a>.'
+  thumbnailUrl: WillyTadema.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/friesewoudloper"}
+  rockstar: true
+-
+  id: 12
+  name: "Gennadii"
+  surname: "Donchyts"
+  company: "Deltares"
+  title: ""
+  bio: ""
+  thumbnailUrl: GennadiiDonchyts.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/gena_d"}
+  rockstar: true
+-
+  id: 13
+  name: "Erna"
+  surname: "Oudman"
+  company: "Van Oord"
+  title: ""
+  bio: ""
+  thumbnailUrl: ErnaOudman.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 14
+  name: "Edward"
+  surname: "Mac Gillavry"
+  company: "Webmapper"
+  title: ""
+  bio: ""
+  thumbnailUrl: EdwardMacGillavry.png 
+  social: 
+    - {name: "twitter", link: "https://twitter.com/emacgillavry"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/emacgillavry"}
+  rockstar: true
+-
+  id: 15
+  name: "Sicco"
+  surname: "van Sas"
+  company: "OpenState Foundation"
+  title: ""
+  bio: ""
+  thumbnailUrl: SiccoVanSas.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/siccovansas"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/siccovansas"}
+  rockstar: true
+-
+  id: 16
+  name: "Paul"
+  surname: "van Genuchten"
+  company: "GeoCat"
+  title: ""
+  bio: ""
+  thumbnailUrl: PaulvanGenuchten.jpg
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/pvangenuchten"}
+  rockstar: true
+-
+  id: 17
+  name: "Raymond"
+  surname: "Sluiter"
+  company: "Netherlands Space Office"
+  title: ""
+  bio: "Owning a PhD in GIS and Remote sensing, Raymond Sluiter (1975) is currently senior advisor earth observation data & applications at Netherlands Space Office (NSO) with a special focus on data science and Big Data infrastructures. He is NL delegate in data related ESA bodies and the EC (Copernicus). Before he was senior researcher GEO-ICT at the Royal Netherlands Meteorological Institute (KNMI). Last years he has evolved to a strategic data expert dealing with data governance, open data, earth observation data and big data."
+  thumbnailUrl: RaymondSluiter.jpg
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/RaymondSluiter"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rsluiter"}
+  rockstar: true
+-
+  id: 18
+  name: "Just"
+  surname: "van den Broecke"
+  company: "JustObjects"
+  title: ""
+  bio: ""
+  thumbnailUrl: JustVanDenBroecke.jpg
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/justb4"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/justb4"}
+  rockstar: true
+-
+  id: 19
+  name: "Rob"
+  surname: "van Loon"
+  company: "Ordina"
+  title: ""
+  bio: ""
+  thumbnailUrl: RobvanLoon.jpg
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/rob_vl"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rvanloon"}
+  rockstar: true
+-
+  id: 20
+  name: "Marijke"
+  surname: "Panis"
+  company: "510 / Rode Kruis"
+  title: ""
+  bio: ""
+  thumbnailUrl: MarijkePanis.png
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marijke-panis-6a594652/"}
+  rockstar: true
+-  
+  id: 21
+  name: "Arjen"
+  surname: "Vrielink"
+  company: "Satelligence"
+  title: ""
+  bio: ""
+  thumbnailUrl: ArjenVrielink.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 22
+  name: "Niene"
+  surname: "Boeijen"
+  company: "Webmapper"
+  title: ""
+  bio: ""
+  thumbnailUrl: NieneBoeijen.png
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/niene-boeijen-24a8a429/"}
+    - {name: "twitter", link: "https://www.twitter.com/BNiene"}
+    - {name: "site", link: "https://nieneb.nl/"}
+
+  rockstar: true
+-
+  id: 23
+  name: "Steven"
+  surname: "Ottens"
+  company: "Webmapper"
+  title: ""
+  bio: ""
+  thumbnailUrl: StevenOttens.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/stvno"}
+
+  rockstar: true
+-
+  id: 24
+  name: "Shenglan"
+  surname: "Du"
+  company: "Technische Universiteit Delft"
+  title: "Master Student Geomatics"
+  bio: ""
+  thumbnailUrl: ShenglanDu.jpg
+  social: 
+    - {name: "site", link: "https://3d.bk.tudelft.nl"}
+    - {name: "twitter", link: "www.linkedin.com/in/shenglan-d-91b828182"}
+  rockstar: true
+-
+  id: 25
+  name: "Hugo"
+  surname: "Ledoux"
+  company: "Technische Universiteit Delft"
+  title: ""
+  bio: ""
+  thumbnailUrl: HugoLedoux.jpg
+  social: 
+    - {name: "site", link: "https://3d.bk.tudelft.nl"}
+    - {name: "twitter", link: "https://www.twitter.com/hugoledoux"}
+    - {name: "twitter", link: "https://www.twitter.com/tudelft3d"}
+  rockstar: true
+-
+  id: 26
+  name: "Linda"
+  surname: "van den Brink"
+  company: "Geonovum"
+  title: ""
+  bio: ""
+  thumbnailUrl: LindaVanDenBrink.jpg
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/brinkwoman"}
+  rockstar: true
+-
+  id: 27
+  name: "Gert-Jan"
+  surname: "van der Weijden"
+  company: "Brandweer Amsterdam-Amstelland"
+  title: ""
+  bio: "Gert-Jan van der Weijden is liefhebber van actief en passief kiesrecht, en zet zijn handen en tanden graag in cijfertjes die daar mee te maken hebben. Op professioneel vlak is Gert-Jan vanaf 11 juni van dit jaar als GIS-specialist in dienst bij de Brandweer Amsterdam-Amstelland."
+  thumbnailUrl: GertJanvanderWeijden.jpg
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/gisnederland"}
+  rockstar: true
+-
+  id: 28
+  name: "Marten"
+  surname: "Terpstra"
+  company: "Provincie Zuid-Holland"
+  title: ""
+  bio: ""
+  thumbnailUrl: MartenTerstra.jpg
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/mlterpstra"}
+  rockstar: true  

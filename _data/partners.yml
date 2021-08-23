@@ -1,0 +1,60 @@
+- 
+  group: "Goud"
+  elements: 
+    - {
+        name: "Technische Universiteit Delft", 
+        description: "3D geoinformatie, TU Delft", 
+        link: "https://3d.bk.tudelft.nl", 
+        imageUrl: "logo-tud-3dgeoinfo.png"
+      }
+    - {
+        name: "LandGoed", 
+        description: "", 
+        link: "https://landgoed.it/", 
+        imageUrl: "logo-landgoed.svg"
+      }
+    - {
+        name: "Satelligence", 
+        description: "", 
+        link: "https://satelligence.com/", 
+        imageUrl: "logo-satelligence.png"
+      }
+    - {
+        name: "Geodan", 
+        description: "", 
+        link: "https://geodan.nl/", 
+        imageUrl: "logo-geodan.jpg"
+      }
+    - {
+        name: "OpenGeoGroep", 
+        description: "", 
+        link: "https://www.opengeogroep.nl/", 
+        imageUrl: "logo-opengeogroep.svg"
+      }
+    - {
+        name: "Ordina", 
+        description: "", 
+        link: "https://www.ordina.nl/", 
+        imageUrl: "logo_ordina.png"
+      }
+-
+  group: "Zilver"
+  elements:
+    - {
+        name: "WebMapper", 
+        description: "", 
+        link: "https://www.webmapper.net", 
+        imageUrl: "logo-webmapper.svg"
+      }
+    - {
+        name: "GeoCat", 
+        description: "", 
+        link: "https://www.geocat.net/", 
+        imageUrl: "logo-geocat.png"
+      }
+    - {
+        name: "Geon", 
+        description: "", 
+        link: "https://www.geon.nl/", 
+        imageUrl: "logo-geon.jpg"
+      }
