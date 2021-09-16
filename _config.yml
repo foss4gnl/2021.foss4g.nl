@@ -56,10 +56,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "delft_ahn3.jpg"
 statisticBlock:
- - {count: "3", specialCharacter: "", info: "keynotes", detail: ""}
- - {count: "20", specialCharacter: "", info: "uren", detail: ""}
- - {count: "23", specialCharacter: "", info: "sprekers", detail: ""}
- - {count: "4", specialCharacter: "", info: "parallele tracks", detail: ""}
+ - {count: "6", specialCharacter: "", info: "workshops", detail: ""}
+ - {count: "2", specialCharacter: "", info: "keynotes", detail: ""}
+ - {count: "24", specialCharacter: "", info: "sprekers", detail: ""}
+ - {count: "3", specialCharacter: "", info: "parallele tracks", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Nieuws"
