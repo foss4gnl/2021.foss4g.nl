@@ -20,7 +20,7 @@
         name: "JustObjects", 
         description: "", 
         link: "https://justobjects.nl/", 
-        imageUrl: "logo-justbojects.png"
+        imageUrl: "logo-justobjects.png"
       }
     - {
         name: "Geo Academie", 
@@ -34,12 +34,12 @@
         link: "https://www.steggink.it/", 
         imageUrl: "steggink_32px.png"
       }
-      -
+-
   group: "Brons"
   elements:
     - {
         name: "Ruimteschepper", 
         description: "", 
         link: "https://www.ruimteschepper.nl/", 
-        imageUrl: "Ruimteschepper-logo-Donker-300x169.png"
+        imageUrl: "ruimteschepper-logo-donker-300x169.png"
       }
