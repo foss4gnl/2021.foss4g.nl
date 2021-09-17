@@ -19,13 +19,27 @@
     - {
         name: "JustObjects", 
         description: "", 
-        link: "https://justobjects.nl", 
-        imageUrl: "logo-webmapper.svg"
+        link: "https://justobjects.nl/", 
+        imageUrl: "logo-justbojects.png"
       }
-
     - {
-        name: "Geon", 
+        name: "Geo Academie", 
         description: "", 
-        link: "https://www.geon.nl/", 
-        imageUrl: "logo-geon.jpg"
+        link: "https://geo-academie.nl/", 
+        imageUrl: "logo-geoacademie-300x80.png"
+      }      
+    - {
+        name: "Steggink Geo-ICT", 
+        description: "", 
+        link: "https://www.steggink.it/", 
+        imageUrl: "steggink_32px.png"
+      }
+      -
+  group: "Brons"
+  elements:
+    - {
+        name: "Ruimteschepper", 
+        description: "", 
+        link: "https://www.ruimteschepper.nl/", 
+        imageUrl: "Ruimteschepper-logo-Donker-300x169.png"
       }
