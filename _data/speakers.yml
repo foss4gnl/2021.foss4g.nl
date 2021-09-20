@@ -1,14 +1,14 @@
 #  id: 1   nummer bepaalt positie op foss4g.nl/speakers, behalve de titel van het blokje onder de foto
 #  name: "Voornaam"    worden hoofdletters
 #  surname: "Achternaam"   worden hoofdletters
-#  company: "Bedrijfsnaam" is een pop-up in het speaker-blokje
-#  title: "beroepsmatige titel van de persoon"   komt achter de naam, voor de bedrijfsnaam
-#  bio: "Korte beschrijving van de persoon"   komt in aparte alinea
-#  thumbnailUrl: naam.jpg   verwijst naar afbeelding in _img/people
+#  company: "Bedrijfsnaam"    wordt zichtbaar bij mouse-over van de foto
+#  title: "beroepsmatige titel van de persoon"    komt achter de naam, voor de bedrijfsnaam
+#  bio: "Korte beschrijving van de persoon"    komt in aparte alinea
+#  thumbnailUrl: naam.jpg     verwijst naar afbeelding in _img/people
 #  social:     linkjes worden toegevoegd onder de bio
 #    - {name: "linkedin", link: "https://www.linkedin.com/in/.../"}
 #    - {name: "twitter", link: "https://twitter.com/..."}
-#  rockstar: true    geen idee??
+#  rockstar: true     geen idee??
 
 -
   id: 1
@@ -335,7 +335,7 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   social: 
     - {name: "twitter", link: "https://www.twitter.com/mlterpstra"}
   rockstar: true
-  -
+-
   id: 27
   name: "Gert-Jan"
   surname: "van der Weijden"
