@@ -27,3 +27,8 @@
         endTime: "17:00",
         sessionIds: [704]
     }
+    - {
+        startTime: "13:00",
+        endTime: "17:00",
+        sessionIds: [705]
+    }
