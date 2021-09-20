@@ -203,9 +203,9 @@
   speakers: [10, 9]
   language: "NL"
 -  
-  id: 703
+  id: 704
   title: "Collecting Field Data with Input/Mergin and QGIS"
   subtype: presentation
   description: "The aim of this workshop is to prepare a project in QGIS and then using Input app to collect data from mobile/tablet. This workshop will begin with an introduction to the Input app and Mergin plugin for QGIS. You will learn to set up a QGIS project for data collection. This portion will include setting up layers with needed fields and setting up an Attribute form with widgets to help with data collection. You will learn to use the Mergin plugin to move data back and forth between a computer and a mobile device. You will then collect some data outside. Lastly you will download the resulting data to your laptop and use QGIS to make a map of the results. "
-  speakers: [4]
+  speakers: [2]
   language: "EN"
