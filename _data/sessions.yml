@@ -195,3 +195,10 @@
   description: "MapLibre is het Open Source alternatief voor vectortegels. Hoe zet je het in en waarom?"
   speakers: [5]
   language: "?"
+  
+  id: 703
+  title: "Processing scripts in QGIS"
+  subtype: presentation
+  description: "In QGIS 2 was het eenvoudig scripts te gebruiken. Het leek er een tijd op dat dat in QGIS 3 een stuk complexer was. Maar het is toch vooral een wat andere manier van kijken. In deze workshops leer je eenvoudige processing scripts gebruiken in de QGIS omgeving."
+  speakers: [10, 9]
+  language: "?"

@@ -1,15 +1,20 @@
 - 
   date: "2021-10-19"
   dateReadable: "19 oktober"
-  tracks: 
-    - {title: "Optie A", color: "#4CB05B"}
-    - {title: "Optie B", color: "#AA0000"}
-    - {title: "Optie C", color: "#4CB05B"}
-    - {title: "Optie D", color: "#4CB05B"}
   timeslots:
     - {
         startTime: "13:00",
         endTime: "17:00",
         sessionIds: [701]
+    }
+- {
+        startTime: "13:00",
+        endTime: "17:00",
+        sessionIds: [702]
+    }
+- {
+        startTime: "13:00",
+        endTime: "17:00",
+        sessionIds: [703]
     }
 
