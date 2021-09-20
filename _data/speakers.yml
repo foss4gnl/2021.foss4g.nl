@@ -1,3 +1,15 @@
+#  id: 1   nummer doet??
+#  name: "Voornaam"    worden hoofdletters
+#  surname: "Achternaam"   worden hoofdletters
+#  company: "Bedrijfsnaam" is een pop-up in het speaker-blokje
+#  title: "beroepsmatige titel van de persoon"   komt achter de naam, voor de bedrijfsnaam
+#  bio: "Korte beschrijving van de persoon"   komt in aparte alinea
+#  thumbnailUrl: naam.jpg   verwijst naar afbeelding in _img/people
+#  social:     linkjes worden toegevoegd onder de bio
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/.../"}
+#    - {name: "twitter", link: "https://twitter.com/..."}
+#  rockstar: true    geen idee??
+
 -
   id: 1
   name: "Amélie"
@@ -38,7 +50,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
     - {name: "linkedin", link: "https://www.linkedin.com/in/lene-fischer-6576636/"}
   rockstar: true
 -
-  id: 4
+  id: 28
   name: "Tom"
   surname: "van Tilburg"
   company: "Geodan"
@@ -324,7 +336,7 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
     - {name: "twitter", link: "https://www.twitter.com/gisnederland"}
   rockstar: true
 -
-  id: 28
+  id: 4
   name: "Marten"
   surname: "Terpstra"
   company: "Provincie Zuid-Holland"
