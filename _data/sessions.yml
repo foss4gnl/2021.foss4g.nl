@@ -45,15 +45,15 @@ standaardenorganisatie op het gebied van geografische informatie. Al jaren is zi
 Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengebied."
   speakers: []
   language: "English"
--
-  id: 902
-  title: "Keynote"
-  subtype: presentation
-  description: "Edzer Pebesma is Professor of geoinformatics aan de universiteit van Münster. Een Nederlander in
-internationale context. Zijn specialiteit is ruimte-tijd modellering, maar hij is misschien nog bekender om
-zijn werk in en met R. Zijn keynote heeft de allesverklarende titel “R Spatial”."
-  speakers: [2]
-  language: "English"
+#-
+#  id: 902
+#  title: "Keynote"
+#  subtype: presentation
+#  description: "Edzer Pebesma is Professor of geoinformatics aan de universiteit van Münster. Een Nederlander in
+#internationale context. Zijn specialiteit is ruimte-tijd modellering, maar hij is misschien nog bekender om
+#zijn werk in en met R. Zijn keynote heeft de allesverklarende titel “R Spatial”."
+#  speakers: [2]
+#  language: "English"
 -
   id: 903
   title: "Afsluitende Keynote"
