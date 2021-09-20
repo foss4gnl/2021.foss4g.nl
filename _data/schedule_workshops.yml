@@ -8,8 +8,8 @@
     - {title: "Optie D", color: "#4CB05B"}
   timeslots:
     - {
-        startTime: "12:00",
-        endTime: "13:00",
+        startTime: "13:00",
+        endTime: "17:00",
         sessionIds: [701]
     }
 
