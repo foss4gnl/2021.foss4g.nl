@@ -1,3 +1,10 @@
+# id: een zelf te kiezen nummer??
+# title:"" is de titel in het blokje
+# subtype: "presentation" ??
+# description: "" is de beschrijving in het blokje onder Language
+# speakers [x]  het nummer x verwijst naar het id nummer van de speaker in _data/speakers.yml
+# 
+
 -
   id: 800
   title: "Registratie"
@@ -40,9 +47,7 @@
   id: 901
   title: "Opening keynote"
   subtype: presentation
-  description: "Athina Trakas is Director Regional Services bij het Open Geospatial Consortium (OGC): Dé
-standaardenorganisatie op het gebied van geografische informatie. Al jaren is zij het gezicht van OGC in
-Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengebied."
+  description: "-"
   speakers: []
   language: "English"
 -
@@ -55,21 +60,20 @@ Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengeb
 #  speakers: [2]
 #  language: "English"
 -
-  id: 903
+  id: 902
   title: "Afsluitende Keynote"
   subtype: presentation
-  description: "Lene Fischer is Associate Professor aan de Universiteit van Kopenhagen. Naast haar reguliere werk is zij
-bijzonder actief in de QGIS community: het lukte haar de QGIS developer meeting naar Nodebo te halen
-(u weet wel, van die QGIS versie) en zet zich hard in voor het QGIS trainingsmateriaal. Zij vertelt over
-communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haar werk."
-  speakers: [3]
+  description: "-"
+  speakers: [2]
   language: "English"
 -
   id: 401
-  title: "Browser-based mapping with D3.js and deck.gl for interactive exploration & communication"
+  title: "-"
   subtype: presentation
-  description: "We will use webGL technologies for fast rendering of large data sets with underlying tile streetmaps and the D3 javascript library for more creative freedom in the browser. I will show examples of how I used such maps to make election, health, police and various open source data insightful for newspaper readers online."
-  speakers: [9]
+  description: "-"
+  speakers: [3]
+  language: "-"
+  
 -
   id: 402
   title: "GeoFiction & Roadmapping"
