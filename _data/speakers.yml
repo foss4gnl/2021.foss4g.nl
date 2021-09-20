@@ -1,14 +1,15 @@
-#  id: 1   nummer bepaalt positie op foss4g.nl/speakers, behalve de titel van het blokje onder de foto
-#  name: "Voornaam"    worden hoofdletters
-#  surname: "Achternaam"   worden hoofdletters
-#  company: "Bedrijfsnaam"    wordt zichtbaar bij mouse-over van de foto
-#  title: "beroepsmatige titel van de persoon"    komt achter de naam, voor de bedrijfsnaam
-#  bio: "Korte beschrijving van de persoon"    komt in aparte alinea
-#  thumbnailUrl: naam.jpg     verwijst naar afbeelding in _img/people
-#  social:     linkjes worden toegevoegd onder de bio
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/.../"}
-#    - {name: "twitter", link: "https://twitter.com/..."}
-#  rockstar: true     geen idee??
+# volgorde bepaald positie op foss4g.nl/speakers  
+# id: 1  nummer komt terug in _data/sessions.yml
+# name: "Voornaam"    worden hoofdletters
+# surname: "Achternaam"   worden hoofdletters
+# company: "Bedrijfsnaam"    wordt zichtbaar bij mouse-over van de foto
+# title: "beroepsmatige titel van de persoon"    komt in de pop-up achter de naam, voor de bedrijfsnaam
+# bio: "Korte beschrijving van de persoon"    komt in de pop-up in aparte alinea
+# thumbnailUrl: naam.jpg     verwijst naar afbeelding in _img/people
+# social:     linkjes worden toegevoegd in de pop-up onder de bio
+#   - {name: "linkedin", link: "https://www.linkedin.com/in/.../"}
+#   - {name: "twitter", link: "https://twitter.com/..."}
+# rockstar: true     geen idee??
 
 -
   id: 1
