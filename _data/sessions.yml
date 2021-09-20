@@ -49,7 +49,7 @@
   id: 401
   title: "Geo in geluid"
   subtype: presentation
-  description: "Lawaai en geluidhinder spelen waar mensen wonen en werken. In de buurt is ook infrastructuur: mensen reizen met de trein of de auto van de ene plek naar de andere: van wonen naar werken en weer terug en daarnaast is er nog ander verkeer. Dat geeft geluid. Een heleboel geluid kan leiden tot geluidoverlast en dat kan weer leiden tot slaapverstoring, hoge bloeddruk en verlies aan gezonde levensjaren. In deze presentatie vertel ik hoe het Geluid werkveld gebruik maakt van de geowereld. Hoe ruimtelijke data in 3D worden opgebouwd om een geluidmodel te genereren, hoe geo-algoritmen helpen om een geluidberekening te doen en hoe het eindresultaat weer op een kaart gepresenteerd wordt. Voor de opzet van een omgevingsmodel komt hierbij de PDOK dataset "3D Geluid" aan bod."
+  description: "Lawaai en geluidhinder spelen waar mensen wonen en werken. In de buurt is ook infrastructuur: mensen reizen met de trein of de auto van de ene plek naar de andere: van wonen naar werken en weer terug en daarnaast is er nog ander verkeer. Dat geeft geluid. Een heleboel geluid kan leiden tot geluidoverlast en dat kan weer leiden tot slaapverstoring, hoge bloeddruk en verlies aan gezonde levensjaren. In deze presentatie vertel ik hoe het Geluid werkveld gebruik maakt van de geowereld. Hoe ruimtelijke data in 3D worden opgebouwd om een geluidmodel te genereren, hoe geo-algoritmen helpen om een geluidberekening te doen en hoe het eindresultaat weer op een kaart gepresenteerd wordt. Voor de opzet van een omgevingsmodel komt hierbij de PDOK dataset 3D Geluid aan bod."
   speakers: [3]
   language: "Nederlands"
 -
