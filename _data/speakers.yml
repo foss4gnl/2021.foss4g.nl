@@ -1,30 +1,26 @@
 -
   id: 1
-  name: "Athina"
-  surname: "Trakas"
-  company: "Open Geospatial Consortium"
-  title: "Director Regional Services"
-  bio: "Athina Trakas is Director Regional Services bij het Open Geospatial Consortium (OGC): Dé
-standaardenorganisatie op het gebied van geografische informatie. Al jaren is zij het gezicht van OGC in
-Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengebied."
-  thumbnailUrl: AthinaTrakas.png
+  name: "Amélie"
+  surname: "A Gagnon"
+  company: "UNESCO International Institute for Educational Planning"
+  title: "Senior Programme Specialist"
+  bio: "Amélie A Gagnon is bij UNESCO IIEP verantwoordelijk voor het onderbouwen van wereldwijde onderwijsplanning op basis van geografische data. Dit doet het instituut bewust met opensource-GIS. In haar keynote gaat zij in op het belang van open software in wereldwijde processen."
+  thumbnailUrl: amelie.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/athinatrakas/"}
-    - {name: "twitter", link: "https://twitter.com/trakasa"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/amelieagagnon/"}
+    - {name: "twitter", link: "https://twitter.com/AmelieAGagnon"}
   rockstar: true
 -
   id: 2
-  name: "Edzer"
-  surname: "Pebesma"
-  company: "Universiteit van Münster"
-  title: "Professor of geoinformatics"
-  bio: "Edzer Pebesma is Professor of geoinformatics aan de universiteit van Münster. Een Nederlander in
-internationale context. Zijn specialiteit is ruimte-tijd modellering, maar hij is misschien nog bekender om
-zijn werk in en met R. Zijn keynote heeft de allesverklarende titel “R Spatial”."
-  thumbnailUrl: EdzerPebesma.jpg
+  name: "Kurt"
+  surname: "Menke"
+  company: "Septima"
+  title: "GIS consultant"
+  bio: "Kurt Menke is niet alleen GIS consultant bij Septima. De meeste mensen in Nederland kennen hem van de QGIS boeken die hij heeft geschreven, waaronder de Discover QGIS serie. Kurt houdt de eindkeynote over de nieuwste ontwikkelingen in QGIS, en verzorgt dinsdag een workshop over het inwinnen van gegevens met Input."
+  thumbnailUrl: kurt.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/edzer/"}
-    - {name: "twitter", link: "https://twitter.com/edzerpebesma"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kurtmenke/"}
+    - {name: "twitter", link: "https://twitter.com/geomenke"}
   rockstar: true
 -
   id: 3
