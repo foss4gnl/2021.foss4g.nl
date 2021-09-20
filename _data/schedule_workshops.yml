@@ -7,18 +7,18 @@
     - {title: "Optie C", color: "#4CB05B"}
     - {title: "Optie D", color: "#4CB05B"}
   timeslots:
-   // - {
-    	startTime: "09:00",
-    	endTime: "12:00",
-    	sessionIds: [200, 201, 203]
+//    - {
+//    	startTime: "09:00",
+//    	endTime: "12:00",
+//    	sessionIds: [200, 201, 203]
     }
     - {
-        startTime: "12:00",
-        endTime: "13:00",
+        startTime: "13:00",
+        endTime: "17:00",
         sessionIds: [701]
     }
-    - {
-    	startTime: "13:00",
-    	endTime: "16:00",
-    	sessionIds: [701, 702]
-    }
+//    - {
+//    	startTime: "13:00",
+//    	endTime: "16:00",
+//    	sessionIds: [701, 702]
+//    }
