@@ -1,8 +1,8 @@
 - 
   date: "2021-10-19"
-  dateReadable: "19 oktober"
+  dateReadable: "dinsdag 19 oktober"
   tracks: 
-    - {title: "Keuze uit vijf workshops", color: "#4CB05B"}
+    - {title: "Keuze uit vijf interessante pre-conference workshops!", color: "#4CB05B"}
   timeslots:
     - {
         startTime: "13:00",
