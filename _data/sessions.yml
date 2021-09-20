@@ -186,7 +186,7 @@
   subtype: presentation
   description: "In this workshop we are going to walk you through the details of the 3D BAG data set, which is a collection of 3D building models at multiple levels of detail for the Netherlands. See https://3dbag.nl. We will introduce the data set, discussing the data model, available formats, data quality and some of the peculiarities. In the hands-on part of the session, we will show how you can make the most out of the data by using Python, whether you integrate with other services or use it directly for analysis. In this part we will focus on CityJSON (http://www.cityjson.org) and cjio (https://github.com/cityjson/cjio), but we will also show other tools that can be helpful for working with the data."
   speakers: [15, 16]
-  language: "?"
+  language: "EN"
  
 -
   id: 702
@@ -194,11 +194,18 @@
   subtype: presentation
   description: "MapLibre is het Open Source alternatief voor vectortegels. Hoe zet je het in en waarom?"
   speakers: [5]
-  language: "?"
-  
+  language: "NL"
+-  
   id: 703
   title: "Processing scripts in QGIS"
   subtype: presentation
   description: "In QGIS 2 was het eenvoudig scripts te gebruiken. Het leek er een tijd op dat dat in QGIS 3 een stuk complexer was. Maar het is toch vooral een wat andere manier van kijken. In deze workshops leer je eenvoudige processing scripts gebruiken in de QGIS omgeving."
   speakers: [10, 9]
-  language: "?"
+  language: "NL"
+-  
+  id: 703
+  title: "Collecting Field Data with Input/Mergin and QGIS"
+  subtype: presentation
+  description: "The aim of this workshop is to prepare a project in QGIS and then using Input app to collect data from mobile/tablet. This workshop will begin with an introduction to the Input app and Mergin plugin for QGIS. You will learn to set up a QGIS project for data collection. This portion will include setting up layers with needed fields and setting up an Attribute form with widgets to help with data collection. You will learn to use the Mergin plugin to move data back and forth between a computer and a mobile device. You will then collect some data outside. Lastly you will download the resulting data to your laptop and use QGIS to make a map of the results. "
+  speakers: [4]
+  language: "EN"
