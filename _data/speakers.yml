@@ -1,4 +1,4 @@
-#  id: 1   nummer doet??
+#  id: 1   nummer bepaalt positie op foss4g.nl/speakers, behalve de titel van het blokje onder de foto
 #  name: "Voornaam"    worden hoofdletters
 #  surname: "Achternaam"   worden hoofdletters
 #  company: "Bedrijfsnaam" is een pop-up in het speaker-blokje
@@ -325,6 +325,17 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
     - {name: "twitter", link: "https://www.twitter.com/brinkwoman"}
   rockstar: true
 -
+  id: 4
+  name: "Marten"
+  surname: "Terpstra"
+  company: "Provincie Zuid-Holland"
+  title: ""
+  bio: ""
+  thumbnailUrl: MartenTerstra.jpg
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/mlterpstra"}
+  rockstar: true
+  -
   id: 27
   name: "Gert-Jan"
   surname: "van der Weijden"
@@ -335,14 +346,3 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   social: 
     - {name: "twitter", link: "https://www.twitter.com/gisnederland"}
   rockstar: true
--
-  id: 4
-  name: "Marten"
-  surname: "Terpstra"
-  company: "Provincie Zuid-Holland"
-  title: ""
-  bio: ""
-  thumbnailUrl: MartenTerstra.jpg
-  social: 
-    - {name: "twitter", link: "https://www.twitter.com/mlterpstra"}
-  rockstar: true  
