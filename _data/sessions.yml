@@ -1,4 +1,5 @@
-# id: x       geen idee wat id doet
+# id: x       dit id nummer wordt gebruikt in _data/schedule_conferenc en _data/schedule_workshops
+# idd 9xx is keynotes, 1xx is track 1, 2xx is track 2, 3xx is track 3, 7xx is workshops 
 # title:""     is de titel in het blokje
 # subtype: "presentation"    geen idee wat dit doet
 # description: "" is de beschrijving in de pop-up onder Language
@@ -46,140 +47,140 @@
   speakers: [2]
   language: "English"
 -
-  id: 401
+  id: 101
   title: "Geo in geluid"
   subtype: presentation
   description: "Lawaai en geluidhinder spelen waar mensen wonen en werken. In de buurt is ook infrastructuur: mensen reizen met de trein of de auto van de ene plek naar de andere: van wonen naar werken en weer terug en daarnaast is er nog ander verkeer. Dat geeft geluid. Een heleboel geluid kan leiden tot geluidoverlast en dat kan weer leiden tot slaapverstoring, hoge bloeddruk en verlies aan gezonde levensjaren. In deze presentatie vertel ik hoe het Geluid werkveld gebruik maakt van de geowereld. Hoe ruimtelijke data in 3D worden opgebouwd om een geluidmodel te genereren, hoe geo-algoritmen helpen om een geluidberekening te doen en hoe het eindresultaat weer op een kaart gepresenteerd wordt. Voor de opzet van een omgevingsmodel komt hierbij de PDOK dataset 3D Geluid aan bod."
   speakers: [3]
   language: "Nederlands"
 -
-  id: 402
+  id: 102
   title: "QGIS Processing Provider plugins"
   subtype: presentation
   description: "Steeds meer tools in de QGIS Processing Toolbox zijn beschikbaar via zogenaamde Processing Provider plugins. Met deze plugins kan je tools van bijvoorbeeld R, Whitebox of PCRaster gebruiken. Ze integreren netjes in QGIS, zodat je bijvoorbeeld ook grafische modellen kan maken en tools van verschillende providers kan combineren. De presentatie zal ingaan op de installatie van deze plugins en voorbeelden geven van het gebruik ervan."
   speakers: [4]
   language: "?"
 -
-  id: 403
+  id: 103
   title: "Vectortegels: thematische en topografische kaarten maken"
   subtype: presentation
   description: "Aan de hand van projecten uit de afgelopen 2 jaar laten we de tips en tricks zien om vectortegels in te zetten voor het maken van thematische en topografische kaarten."
   speakers: [5]
   language: "Nederlands"
 -
-  id: 404
+  id: 104
   title: "-"
   subtype: presentation
   description: "-"
   speakers: [6]
   language: "-"
 -
-  id: 405
+  id: 105
   title: "Zo gemakkelijk kun je geo-webdiensten uitrollen."
   subtype: presentation
-  description: "Het installeren en onderhouden van Open Source server-componenten (denk: GeoServer, PostGIS etc) lijkt soms een brug te ver voor velen. De laatste jaren zijn er echter een aantal technologieën beschikbaar die het installeren, maar vooral ook het onderhouden/beheren vergemakkelijken. Het gaat om "Cloud" technologieën zoals Docker en GitHub. Voor Geonovum heb ik een platform opgezet om webdiensten voor de nieuwe OGC APIs voor Features (denk: WFS versie 3) te draaien. Het doel was om een aantal implementaties uit te proberen, maar vooral ook om de deployment (uitrol) laagdrempelig te maken zodat ook niet-programmeurs/systeem-beheerders dit platform kunnen onderhouden en uitbreiden. Door de combinatie van deze vier technieken is dit een succes geworden: Docker, GitHub, Ansible en GitHub Workflows. Deze zal ik toelichten. De server componenten zijn o.a. GeoServer, pygeoapi, QGIS Server en PostGIS. Meer weten? Uitgebreide documentatie op https://apitestdocs.geonovum.nl en aantal slides op https://files.justobjects.nl/presentation/opengeodag-2021/opengeodag-2021-just.pdf"
+  description: "Het installeren en onderhouden van Open Source server-componenten (denk: GeoServer, PostGIS etc) lijkt soms een brug te ver voor velen. De laatste jaren zijn er echter een aantal technologieën beschikbaar die het installeren, maar vooral ook het onderhouden/beheren vergemakkelijken. Het gaat om Cloud technologieën zoals Docker en GitHub. Voor Geonovum heb ik een platform opgezet om webdiensten voor de nieuwe OGC APIs voor Features (denk: WFS versie 3) te draaien. Het doel was om een aantal implementaties uit te proberen, maar vooral ook om de deployment (uitrol) laagdrempelig te maken zodat ook niet-programmeurs/systeem-beheerders dit platform kunnen onderhouden en uitbreiden. Door de combinatie van deze vier technieken is dit een succes geworden: Docker, GitHub, Ansible en GitHub Workflows. Deze zal ik toelichten. De server componenten zijn o.a. GeoServer, pygeoapi, QGIS Server en PostGIS. Meer weten? Uitgebreide documentatie op https://apitestdocs.geonovum.nl en aantal slides op https://files.justobjects.nl/presentation/opengeodag-2021/opengeodag-2021-just.pdf"
   speakers: [7]
   language: "Nederlands"
 -
-  id: 406
+  id: 106
   title: "Bodem data hub op basis van open source"
   subtype: presentation
   description: "Isric is gevestigd binnen Wageningen universiteit en beheert naast een collectie bodem profielen ook een een aantal globale datasets rond bodem en landgebruik. Voor het beheer van de applicaties rond deze datasets gebruiken we een geavanceerde gitops workflow in gitlab, docker en kubernetes. In deze presentatie een korte uitleg over de gemaakte keuzes en ervaringen. Maar ook een aantal tips hoe je onze api’s voor diverse doeleinden kunt gebruiken."
   speakers: [8]
   language: "Nederlands"
 -
-  id: 407
+  id: 107
   title: "-"
   subtype: presentation
   description: "-"
   speakers: [9]
   language: "-"
 -
-  id: 408
+  id: 108
   title: "Processing Scripts in QGIS"
   subtype: presentation
   description: "Workshop"
   speakers: [10]
   language: "-"
 -
-  id: 409
+  id: 109
   title: "De nieuwe EU digitale en data regels"
   subtype: presentation
   description: "Er is een nieuw Europees juridisch raamwerk voorgesteld, bestaande uit een digitale en datastrategie. De doorontwikkeling van INSPIRE krijgt daarin een plek, maar het raamwerk is veel verstrekkender, en een geopolitieke stellingname van de EU. De komende jaren worden die wetten van kracht, met impact op gebruik van geodata, basisregistraties, open data. Inclusief een heldere band met beleidsthema's van de Green Deal, als energietransitie, klimaatadaptatie, smart mobility, bouwen en voedsel. Een verschuiving in kijken naar data governance, en samenwerking over sectoren en landen heen. Heldere kansen voor FOSS4G om met elkaar eens te bespreken."
   speakers: [11]
   language: "Nederlands"
 -
-  id: 410
+  id: 110
   title: "De Provincies en open source (Q)GIS trainingen."
   subtype: presentation
   description: "De Provincies hebben vanuit het Provinciaal Platform Geo geïnvesteerd in de ontwikkeling van vrij beschikbare trainingsvideo’s voor QGIS. Waarom hebben we dit gedaan, hoe kan je het inzetten en wat zijn de vervolgstappen?"
   speakers: [12]
   language: "-"
 -
-  id: 411
+  id: 111
   title: "Interoperabiliteit: Het gebruik van Esri File geodatabases in Qgis"
   subtype: presentation
-  description: "Ten behoeve van het verhogen van de adoptie en het verbetering de informatie uitwisseling binnen het BIM programma van de Provincie Gelderland hebben wij onlangs besloten onze BIM data uit te gaan wisselen middels een "lichtgewicht uitwissel formaat". Hiervoor hebben wij in eerste instantie gekozen voor het Esri File geodatabases formaat omdat dit het beste bij onze organisatie. Om het gebruik hiervan en daarmee de adoptie van BIM zo groot mogelijk te maken willen we ervoor zorgen dat we naast een poriatary software oplossing ook een open-source oplossingen aan kunnen bieden. De komende maand gaan we vanuit de provincie Gelderland, samen met Terglobo de uitwisseling tussen Esri File geodatabases en Qgis verder uitbereiden en verbeteren en zullen dit beschikbaar maken als open-source plugin en/of toevoegen aan Qgis. In deze presentatie wil ik jullie graag mee nemen in de uitkomsten van deze ontwikkeling."
+  description: "Ten behoeve van het verhogen van de adoptie en het verbetering de informatie uitwisseling binnen het BIM programma van de Provincie Gelderland hebben wij onlangs besloten onze BIM data uit te gaan wisselen middels een lichtgewicht uitwissel formaat. Hiervoor hebben wij in eerste instantie gekozen voor het Esri File geodatabases formaat omdat dit het beste bij onze organisatie. Om het gebruik hiervan en daarmee de adoptie van BIM zo groot mogelijk te maken willen we ervoor zorgen dat we naast een poriatary software oplossing ook een open-source oplossingen aan kunnen bieden. De komende maand gaan we vanuit de provincie Gelderland, samen met Terglobo de uitwisseling tussen Esri File geodatabases en Qgis verder uitbereiden en verbeteren en zullen dit beschikbaar maken als open-source plugin en/of toevoegen aan Qgis. In deze presentatie wil ik jullie graag mee nemen in de uitkomsten van deze ontwikkeling."
   speakers: [13]
   language: "Nederlands"
 -
-  id: 412
+  id: 112
   title: "Foto's geoloceren"
   subtype: presentation
   description: "-"
   speakers: [14]
   language: "-"
 -
-  id: 413
+  id: 113
   title: "Using the 3D BAG in Python"
   subtype: presentation
   description: "In this workshop we are going to walk you through the details of the 3D BAG data set, which is a collection of 3D building models at multiple levels of detail for the Netherlands. See https://3dbag.nl. We will introduce the data set, discussing the data model, available formats, data quality and some of the peculiarities. In the hands-on part of the session, we will show how you can make the most out of the data by using Python, whether you integrate with other services or use it directly for analysis. In this part we will focus on CityJSON (http://www.cityjson.org) and cjio (https://github.com/cityjson/cjio), but we will also show other tools that can be helpful for working with the data."
   speakers: [15]
   language: "?"
 -
-  id: 414
+  id: 114
   title: "Using the 3D BAG in Python"
   subtype: presentation
   description: "In this workshop we are going to walk you through the details of the 3D BAG data set, which is a collection of 3D building models at multiple levels of detail for the Netherlands. See https://3dbag.nl. We will introduce the data set, discussing the data model, available formats, data quality and some of the peculiarities. In the hands-on part of the session, we will show how you can make the most out of the data by using Python, whether you integrate with other services or use it directly for analysis. In this part we will focus on CityJSON (http://www.cityjson.org) and cjio (https://github.com/cityjson/cjio), but we will also show other tools that can be helpful for working with the data."
   speakers: [16]
   language: "?"
 -
-  id: 415
+  id: 115
   title: "OpenDataCube"
   subtype: presentation
   description: "-"
   speakers: [17]
   language: "?"
 -
-  id: 416
+  id: 116
   title: "QGIS expressies"
   subtype: presentation
   description: "Workshop"
   speakers: [18]
   language: "Nederlands"
 -
-  id: 417
+  id: 117
   title: "-"
   subtype: presentation
   description: "-"
   speakers: [19]
   language: "-"
 -
-  id: 418
+  id: 118
   title: "-"
   subtype: presentation
   description: "-"
   speakers: [20]
   language: "-"
 -
-  id: 419
+  id: 119
   title: "-"
   subtype: presentation
   description: "-"
   speakers: [21]
   language: "-"
 -
-  id: 420
+  id: 120
   title: "-"
   subtype: presentation
   description: "-"
