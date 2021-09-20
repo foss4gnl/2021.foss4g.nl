@@ -1,9 +1,9 @@
-# id: een zelf te kiezen nummer??
-# title:"" is de titel in het blokje
-# subtype: "presentation" ??
-# description: "" is de beschrijving in het blokje onder Language
+# id: x       geen idee wat id doet
+# title:""     is de titel in het blokje
+# subtype: "presentation"    geen idee wat dit doet
+# description: "" is de beschrijving in de pop-up onder Language
 # speakers [x]  het nummer x verwijst naar het id nummer van de speaker in _data/speakers.yml
-# 
+# langauage: ""  geeft de taal van de presentatie, in de pop-up onder de titel
 
 -
   id: 800
@@ -48,7 +48,7 @@
   title: "Opening keynote"
   subtype: presentation
   description: "-"
-  speakers: []
+  speakers: [1]
   language: "English"
 -
 #  id: 902
@@ -61,7 +61,7 @@
 #  language: "English"
 -
   id: 902
-  title: "Afsluitende Keynote"
+  title: "Closing Keynote"
   subtype: presentation
   description: "-"
   speakers: [2]
