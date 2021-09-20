@@ -155,76 +155,74 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-van-antwerpen-682ab566"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
+  id: 13
+  name: "Bram"
+  surname: "Corneliszen"
+  company: "Provincie Gelderland"
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: bram_corneliszen.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bramcorneliszen"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
+  id: 14
+  name: "Sabine"
+  surname: "de Milliano"
+  company: "52impact"
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: sabine_de_milliano.jpg
   social: 
     - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sabinedemilliano"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
+  id: 15
+  name: "Balázs"
+  surname: "Dukai"
+  company: "3DGI"
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: balazs_dukai.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://twitter.com/BalazsDukai"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/balazsdukai"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
+  id: 16
+  name: "Ravi"
+  surname: "Peters"
+  company: "3DGI"
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: ravi_peters.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://twitter.com/ylannl"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ravi-peters-b4912621"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
+  id: 17
+  name: "Aron"
+  surname: "Gergely"
+  company: "Rasterra"
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: aron_gergely.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://twitter.com/arongerg"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/arongergely"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
+  id: 18
+  name: "Jonna"
+  surname: "Bosch"
+  company: "Nieuwland"
+  title: "Docent en adviseur geo-informatie"
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: jonna_bosch
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jonnabosch"}
   rockstar: true
 -
   id: 
