@@ -193,7 +193,7 @@
   title: "MapLibre: een nieuwe JS bibliotheek voor interactieve kaarten op het Web"
   subtype: presentation
   description: "MapLibre is het Open Source alternatief voor vectortegels. Hoe zet je het in en waarom?"
-  speakers: [5]
+  speakers: [5, 19]
   language: "NL"
 -  
   id: 703
