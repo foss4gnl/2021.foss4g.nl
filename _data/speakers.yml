@@ -66,7 +66,7 @@
   surname: "Mac Gillavry"
   company: "Webmapper"
   title: ""
-  bio: ""
+  bio: "Sinds hij in 2005 Webmapper startte, is Edward web map developer en consultant. Vanuit de cartografische projecten voor diverse opdrachtgevers geeft hij advies en doceert hij over het ontwikkelen van geografische web-applicaties. Edward verbindt de kennis en ervaring uit de cartografie met de nieuwste ontwikkelingen op het Web."
   thumbnailUrl: EdwardMacGillavry.png 
   social: 
     - {name: "twitter", link: "https://twitter.com/emacgillavry"}
@@ -115,7 +115,7 @@
   company: "Terglobo"
   title: ""
   bio: "Raymond Nijssen werkt al ruim tien jaar als zelfstandig open source GIS-adviseur onder de naam Terglobo en is lid van de coöperatie OpenGeoGroep.
-Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor regelmatig internationale bijeenkomsten."
+  Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor regelmatig internationale bijeenkomsten. Oh, en hij is uiteraard ook de voorzitter van de QGISNL gebruikersgroep."
   thumbnailUrl: RaymondNijssen.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
@@ -181,7 +181,7 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   id: 15
   name: "Balázs"
   surname: "Dukai"
-  company: "3DGI"
+  company: "TU Delft / 3DGI"
   title: ""
   bio: ""
   thumbnailUrl: balazs_dukai.jpg
@@ -193,7 +193,7 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   id: 16
   name: "Ravi"
   surname: "Peters"
-  company: "3DGI"
+  company: "TU Delft / 3DGI"
   title: ""
   bio: ""
   thumbnailUrl: ravi_peters.jpg
@@ -225,40 +225,39 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
     - {name: "linkedin", link: "https://www.linkedin.com/in/jonnabosch"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  id: 19
+  name: "Frederieke"
+  surname: "Ridder"
+  company: "Webmapper"
+  title: "Cartograaf"
+  bio: "Frederieke is gefascineerd door verkavelingspatronen in het landschap. Zij volgde de opleidingen Allround Styling aan de Academie Artemis en Geo Media & Design aan de Aeres Hogeschool. Bij Webmapper neemt zij het ontwerp voor haar rekening."
+  thumbnailUrl: Frederieke.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/frederieke-ridder-870b7092/"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
+  id: 20
+  name: "Mariëlle"
+  surname: "Geers-Plasmans"
+  company: "Logisch Inzicht"
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: Marielle.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://twitter.com/geojuffie"}
+    - {name: "linkedin", link: "https://linkedin.com/in/mariëllegeersplasmans"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
+  id: 21
+  name: "Erik"
+  surname: "Meerburg"
+  company: "B3Partners, TU Delft, Geo Academie"
+  title: "Geogoeroe"
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: ErikMeerburg.png
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://twitter.com/geogoeroe"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/erik-meerburg-53a8055/"}
   rockstar: true
 -
   id: 
