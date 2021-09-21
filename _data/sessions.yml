@@ -201,7 +201,7 @@
   subtype: presentation
   description: "QGIS heeft een geweldig tools voor processing, waar je ook zelf allerlei tools aan toe kunt voegen. In QGIS2 was dat heel eenvoudig, in QGIS3 lijkt dat veel moeilijker. Met de juiste manier van kijken valt dat in de praktijk wel mee.
   In deze workshop leer je die manier van kijken en daarmee de manier waarop je eenvoudig je eigen tools kunt toevoegen aan QGIS. Ervaring met serieus programmeren (elke willekeurige programmeertaal) of knutselen in Python is vereist. We verwachten dat je zelf een laptop met een recente versie van QGIS3 meeneemt."
-  speakers: [10, 9]
+  speakers: [9, 10]
   language: "NL"
 -  
   id: 704

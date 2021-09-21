@@ -169,12 +169,12 @@
   id: 14
   name: "Sabine"
   surname: "de Milliano"
-  company: "52impact"
+  company: "52impact / Knalblauw"
   title: ""
-  bio: ""
+  bio: "Creatieve ondernemer met een technische achtergrond in remote sensing en GIS (TU Delft). Oprichter van 52impact en Knalblauw. Reisfotograaf en schrijver van Surprising Europe. Verbinder van geo, IT en communicatie. Doel: complexe technologie simpel en mooi maken."
   thumbnailUrl: sabine_de_milliano.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "instagram", link: "https://www.instagram.com/sabine_imagery/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/sabinedemilliano"}
   rockstar: true
 -
