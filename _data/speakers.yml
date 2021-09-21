@@ -236,23 +236,12 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/frederieke-ridder-870b7092/"}
   rockstar: true
 -
-  id: 20
-  name: "Mariëlle"
-  surname: "Geers-Plasmans"
-  company: "Logisch Inzicht"
-  title: ""
-  bio: ""
-  thumbnailUrl: Marielle.jpg
-  social: 
-    - {name: "twitter", link: "https://twitter.com/geojuffie"}
-    - {name: "linkedin", link: "https://linkedin.com/in/mariëllegeersplasmans"}
-  rockstar: true
 -
-  id: 21
+  id: 20
   name: "Erik"
   surname: "Meerburg"
   company: "B3Partners, TU Delft, Geo Academie"
-  title: "Geogoeroe"
+  title: ""
   bio: ""
   thumbnailUrl: ErikMeerburg.png
   social: 
