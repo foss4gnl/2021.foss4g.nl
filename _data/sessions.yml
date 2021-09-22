@@ -193,7 +193,7 @@
   subtype: presentation
   description: "QGIS heeft een geweldig tools voor processing, waar je ook zelf allerlei tools aan toe kunt voegen. In QGIS2 was dat heel eenvoudig, in QGIS3 lijkt dat veel moeilijker. Met de juiste manier van kijken valt dat in de praktijk wel mee.
   In deze workshop leer je die manier van kijken en daarmee de manier waarop je eenvoudig je eigen tools kunt toevoegen aan QGIS. Ervaring met serieus programmeren (elke willekeurige programmeertaal) of knutselen in Python is vereist. We verwachten dat je zelf een laptop met een recente versie van QGIS3 meeneemt."
-  speakers: [9, 10]
+  speakers: []
   language: "NL"
 -  
   id: 704
@@ -210,7 +210,10 @@
   id: 705
   title: "QGIS expressies"
   subtype: presentation
-  description: "t.b.d."
+  description: "Heb je je ook wel eens afgevraagd hoe je nu meer kunt halen uit het expressievenster? 
+  Een sterk punt van QGIS is dat je taken naar een hogere functionaliteit kunt brengen met expressies. Expressies kun je niet alleen toepassen bij selectie en veldberekeningen, maar ook op opmaak van lagen en kaarten en project- of laageigenschappen. Je kunt het zo gek niet bedenken of je komt een expressievenster tegen. Supergaaf, en misschien in eerste instantie overweldigend maar daar brengt deze workshop verandering in.
+  
+  Neem je eigen laptop mee, met daarop een recente versie van QGIS."
   speakers: [18]
   language: "NL"
   
