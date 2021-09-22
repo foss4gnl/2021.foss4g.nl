@@ -2438,7 +2438,7 @@ time{
     opacity:1
 }
 .top-header .overlay{
-    opacity:0;
+    opacity:1;
     -webkit-transition:all 0.3s;
     transition:all 0.3s
 }
