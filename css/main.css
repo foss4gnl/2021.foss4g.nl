@@ -2428,7 +2428,7 @@ time{
     position:fixed;
     z-index:500;
     width:100%;
-    padding:0 45px
+    padding:0 45px    
 }
 .top-header.after-scroll{
     padding-top:0;

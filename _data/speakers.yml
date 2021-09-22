@@ -248,122 +248,92 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/erik-meerburg-53a8055/"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
+  id: 21
+  name: "Maarten"
+  surname: "Pronk"
+  company: "Deltares / TU Delft"
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: maarten_pronk.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mjpronk"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
+  id: 22
+  name: "Camilo Alexander"
+  surname: "Leon-Sanchez"
+  company: "TU Delft"
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: camilo_leon_sanchez.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/camilo-alexander-leon-sanchez-30143a51"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
+  id: 23
+  name: "Markus"
+  surname: "Konkol"
+  company: "ITC"
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: markus_konkol.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://twitter.com/MarkusKonkol"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/markus-konkol-a3b244140"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
+  id: 24
+  name: "Natalia"
+  surname: "Cárdenas Niño"
+  company: "FutureWater"
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: natalia_cardenas.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/natalia-cardenas-nino"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
+  id: 25
+  name: "Kor"
+  surname: "de Jong"
+  company: "Universiteit Utrecht"
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: kor_de_jong.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kordejong"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
+  id: 26
+  name: "Stijn"
+  surname: "Ticheloven"
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: stijn_ticheloven.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/stijnticheloven"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
+  id: 27
+  name: "Oscar"
+  surname: "Porsius"
+  company: "B3Partners"
   title: ""
   bio: ""
   thumbnailUrl: 
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/oscar-p-1a6a1b209"}
   rockstar: true
 -
-  id: 
-  name: ""
-  surname: ""
-  company: ""
+  id: 28
+  name: "Serkan"
+  surname: "Girgin"
+  company: "ITC"
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: serkan_girgin.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/serkan-girgin"}
   rockstar: true
--
-  id: 
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
-  rockstar: true
--
-  id: 
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
-  rockstar: true
+
