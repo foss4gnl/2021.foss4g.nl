@@ -2428,15 +2428,14 @@ time{
     position:fixed;
     z-index:500;
     width:100%;
-    padding:0 45px;
-    opacity:1    
+    padding:0 45px    
 }
 .top-header.after-scroll{
     padding-top:0;
     box-shadow:0 0 5px rgba(0,0,0,0.2),0 1px 0 rgba(255,255,255,0.15)
 }
 .top-header.after-scroll .overlay{
-    opacity:1
+    opacity:0
 }
 .top-header .overlay{
     opacity:1;
@@ -2668,7 +2667,7 @@ nav li a.current,nav li a:hover{
     background:#000
 }
 .top-section .gradient-overlay{
-    opacity:1
+    opacity:0
 }
 .top-section.enable-overlay .gradient-overlay{
     opacity:1
