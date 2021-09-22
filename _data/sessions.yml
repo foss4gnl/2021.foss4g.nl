@@ -203,7 +203,7 @@ For a successful OS transition, the initiatives aim to address the Rewards & Rec
   id: 701
   title: "Using the 3D BAG in Python"
   subtype: presentation
-  description: "In this workshop we are going to walk you through the details of the 3D BAG data set, which is a collection of 3D building models at multiple levels of detail for the Netherlands. See https://3dbag.nl. We will introduce the data set, discussing the data model, available formats, data quality and some of the peculiarities. In the hands-on part of the session, we will show how you can make the most out of the data by using Python, whether you integrate with other services or use it directly for analysis. In this part we will focus on CityJSON (http://www.cityjson.org) and cjio (https://github.com/cityjson/cjio), but we will also show other tools that can be helpful for working with the data."
+  description: "In this workshop we are going to walk you through the details of the 3D BAG data set, which is a collection of 3D building models at multiple levels of detail for the Netherlands. See https://3dbag.nl. We will introduce the data set, discussing the data model, available formats, data quality and some of the peculiarities.<br /><br /> In the hands-on part of the session, we will show how you can make the most out of the data by using Python, whether you integrate with other services or use it directly for analysis. In this part we will focus on CityJSON (http://www.cityjson.org) and cjio (https://github.com/cityjson/cjio), but we will also show other tools that can be helpful for working with the data."
   speakers: [15, 16]
   language: "EN/NL"
  
@@ -218,18 +218,18 @@ For a successful OS transition, the initiatives aim to address the Rewards & Rec
   id: 703
   title: "Processing scripts in QGIS"
   subtype: presentation
-  description: "QGIS heeft een geweldig tools voor processing, waar je ook zelf allerlei tools aan toe kunt voegen. In QGIS2 was dat heel eenvoudig, in QGIS3 lijkt dat veel moeilijker. Met de juiste manier van kijken valt dat in de praktijk wel mee.
-  In deze workshop leer je die manier van kijken en daarmee de manier waarop je eenvoudig je eigen tools kunt toevoegen aan QGIS. Ervaring met serieus programmeren (elke willekeurige programmeertaal) of knutselen in Python is vereist. We verwachten dat je zelf een laptop met een recente versie van QGIS3 meeneemt."
+  description: "QGIS heeft een geweldig tools voor processing, waar je ook zelf allerlei tools aan toe kunt voegen. In QGIS2 was dat heel eenvoudig, in QGIS3 lijkt dat veel moeilijker. Met de juiste manier van kijken valt dat in de praktijk wel mee.<br /><br />
+  In deze workshop leer je die manier van kijken en daarmee de manier waarop je eenvoudig je eigen tools kunt toevoegen aan QGIS. Ervaring met serieus programmeren (elke willekeurige programmeertaal) of knutselen in Python is vereist. <br /><br />We verwachten dat je zelf een laptop met een recente versie van QGIS3 meeneemt."
   speakers: []
   language: "NL"
 -  
   id: 704
   title: "Collecting Field Data with Input/Mergin and QGIS"
   subtype: presentation
-  description: "The aim of this workshop is to prepare a project in QGIS and then using Input app to collect data from mobile/tablet. This workshop will begin with an introduction to the Input app and Mergin plugin for QGIS. You will learn to set up a QGIS project for data collection. This portion will include setting up layers with needed fields and setting up an Attribute form with widgets to help with data collection. You will learn to use the Mergin plugin to move data back and forth between a computer and a mobile device. You will then collect some data outside. Lastly you will download the resulting data to your laptop and use QGIS to make a map of the results.
-  For this workshop, you will need 
-  - A PC/laptop running QGIS 3.16 or later version and the Mergin Plugin
-  - A mobile/tablet (Android/iPhone/iPad) with 'https://inputapp.io' installed on
+  description: "The aim of this workshop is to prepare a project in QGIS and then using Input app to collect data from mobile/tablet. This workshop will begin with an introduction to the Input app and Mergin plugin for QGIS. You will learn to set up a QGIS project for data collection. This portion will include setting up layers with needed fields and setting up an Attribute form with widgets to help with data collection. You will learn to use the Mergin plugin to move data back and forth between a computer and a mobile device. You will then collect some data outside. Lastly you will download the resulting data to your laptop and use QGIS to make a map of the results.<br /><br />
+  For this workshop, you will need <br />
+  - A PC/laptop running QGIS 3.16 or later version and the Mergin Plugin<br />
+  - A mobile/tablet (Android/iPhone/iPad) with 'https://inputapp.io' installed on<br />
   - An account on 'https://public.cloudmergin.com/'"
   speakers: [2]
   language: "EN"
@@ -237,8 +237,8 @@ For a successful OS transition, the initiatives aim to address the Rewards & Rec
   id: 705
   title: "QGIS expressies"
   subtype: presentation
-  description: "Heb je je ook wel eens afgevraagd hoe je nu meer kunt halen uit het expressievenster? <br />
-  Een sterk punt van QGIS is dat je taken naar een hogere functionaliteit kunt brengen met expressies. Expressies kun je niet alleen toepassen bij selectie en veldberekeningen, maar ook op opmaak van lagen en kaarten en project- of laageigenschappen. Je kunt het zo gek niet bedenken of je komt een expressievenster tegen. Supergaaf, en misschien in eerste instantie overweldigend maar daar brengt deze workshop verandering in.<br />
+  description: "Heb je je ook wel eens afgevraagd hoe je nu meer kunt halen uit het expressievenster? <br /><br />
+  Een sterk punt van QGIS is dat je taken naar een hogere functionaliteit kunt brengen met expressies. Expressies kun je niet alleen toepassen bij selectie en veldberekeningen, maar ook op opmaak van lagen en kaarten en project- of laageigenschappen. Je kunt het zo gek niet bedenken of je komt een expressievenster tegen. Supergaaf, en misschien in eerste instantie overweldigend maar daar brengt deze workshop verandering in.<br /><br />
   Neem je eigen laptop mee, met daarop een recente versie van QGIS."
   speakers: [18]
   language: "NL"
