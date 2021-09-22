@@ -2435,10 +2435,10 @@ time{
     box-shadow:0 0 5px rgba(0,0,0,0.2),0 1px 0 rgba(255,255,255,0.15)
 }
 .top-header.after-scroll .overlay{
-    opacity:0
+    opacity:1
 }
 .top-header .overlay{
-    opacity:1;
+    opacity:0;
     -webkit-transition:all 0.3s;
     transition:all 0.3s
 }
