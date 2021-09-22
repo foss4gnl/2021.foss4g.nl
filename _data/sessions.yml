@@ -237,9 +237,8 @@ For a successful OS transition, the initiatives aim to address the Rewards & Rec
   id: 705
   title: "QGIS expressies"
   subtype: presentation
-  description: "Heb je je ook wel eens afgevraagd hoe je nu meer kunt halen uit het expressievenster? 
-  Een sterk punt van QGIS is dat je taken naar een hogere functionaliteit kunt brengen met expressies. Expressies kun je niet alleen toepassen bij selectie en veldberekeningen, maar ook op opmaak van lagen en kaarten en project- of laageigenschappen. Je kunt het zo gek niet bedenken of je komt een expressievenster tegen. Supergaaf, en misschien in eerste instantie overweldigend maar daar brengt deze workshop verandering in.
-  
+  description: "Heb je je ook wel eens afgevraagd hoe je nu meer kunt halen uit het expressievenster? <br />
+  Een sterk punt van QGIS is dat je taken naar een hogere functionaliteit kunt brengen met expressies. Expressies kun je niet alleen toepassen bij selectie en veldberekeningen, maar ook op opmaak van lagen en kaarten en project- of laageigenschappen. Je kunt het zo gek niet bedenken of je komt een expressievenster tegen. Supergaaf, en misschien in eerste instantie overweldigend maar daar brengt deze workshop verandering in.<br />
   Neem je eigen laptop mee, met daarop een recente versie van QGIS."
   speakers: [18]
   language: "NL"
