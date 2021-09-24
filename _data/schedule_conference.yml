@@ -1,40 +1,35 @@
 - 
-  date: "2019-06-20"
-  dateReadable: "20 juni"
+  date: "2021-10-20"
+  dateReadable: "20 oktober"
   title: "Presentaties"
   tracks: 
-    - {title: "GROEN", color: "#90be4e"}
-    - {title: "BLAUW", color: "#03a9f4"}
-    - {title: "ROOD", color: "#e91e63"}
+    - {title: "QGIS", color: "#90be4e"}
+    - {title: "Tech & Science", color: "#e91e63"}
+    - {title: "OSGeo", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "9:15",
-    	endTime: "9:45",
+    	startTime: "9:00",
+    	endTime: "9:30",
     	sessionIds: [800]
     }
     - {
-      startTime: "9:45",
+      startTime: "9:30",
       endTime: "10:00",
       sessionIds: [801]
     }
     - {
       startTime: "10:00",
-      endTime: "10:45",
+      endTime: "10:30",
       sessionIds: [901]
     }
     - {
-      startTime: "10:45",
-      endTime: "11:15",
-      sessionIds: [902]
-    }
-    - {
-      startTime: "11:15",
-      endTime: "11:45",
+      startTime: "10:30",
+      endTime: "11:00",
       sessionIds: [802]
     }
     - {
-      startTime: "11:45",
-      endTime: "13:00",
+      startTime: "11:00",
+      endTime: "12:15",
       sessionIds: [6,16,22]
     }
     - {
@@ -48,13 +43,13 @@
       sessionIds: [17,4,12]
     }
     - {
-      startTime: "13:00",
-      endTime: "14:00",
+      startTime: "12:15",
+      endTime: "13:30",
       sessionIds: [803]
     }
     - {
-      startTime: "14:00",
-      endTime: "14:50",
+      startTime: "13:30",
+      endTime: "14:45",
       sessionIds: [2,24,9]
     }
     - {
@@ -63,13 +58,18 @@
       sessionIds: [21,7,23]
     }    
     - {
-      startTime: "14:50",
-      endTime: "15:20",
+      startTime: "",
+      endTime: "",
+      sessionIds: [21,7,23]
+    }
+    - {
+      startTime: "14:45",
+      endTime: "15:05",
       sessionIds: [802]
     }
     - {
-      startTime: "15:20",
-      endTime: "16:10",
+      startTime: "15:05",
+      endTime: "16:00",
       sessionIds: [18,5,1]
     }
     - {
@@ -78,12 +78,17 @@
       sessionIds: [20,8,3]
     }
     - {
-      startTime: "16:10",
-      endTime: "16:40",
+      startTime: "",
+      endTime: "",
+      sessionIds: [20,8,3]
+    }
+    - {
+      startTime: "16:00",
+      endTime: "16:30",
       sessionIds: [903]
     }
     - {
-      startTime: "16:40",
+      startTime: "16:30",
       endTime: "17:00",
       sessionIds: [804]
     }
