@@ -325,7 +325,6 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/martijn-van-der-struijk-91a73773/"}
   rockstar: true
-  
 -
   id: 28
   name: "Irene"
@@ -337,7 +336,6 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/irene-pleizier-0225453/"}
   rockstar: true
-  
 - 
   id: 29
   name: "Joachim"
@@ -370,7 +368,6 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/zhaiyu-chen/"}
   rockstar: true
-  
 - 
   id: 32
   name: "Muhammad"
@@ -382,7 +379,6 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/muhammad-saleem056/"}
   rockstar: true
-  
 -
   id: 33
   name: "Serkan"
