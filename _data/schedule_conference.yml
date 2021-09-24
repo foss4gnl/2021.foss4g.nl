@@ -8,9 +8,9 @@
     - {title: "OSGeo", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "9:00",
-    	endTime: "9:30",
-    	sessionIds: [800]
+      startTime: "9:00",
+      endTime: "9:30",
+      sessionIds: [800]
     }
     - {
       startTime: "9:30",
@@ -30,17 +30,17 @@
     - {
       startTime: "11:00",
       endTime: "12:15",
-      sessionIds: [6,16,22]
+      sessionIds: [101,201,301]
     }
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [11,14,10]
+      sessionIds: [102,202,203]
     }
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [17,4,12]
+      sessionIds: [103,203,303]
     }
     - {
       startTime: "12:15",
@@ -50,17 +50,17 @@
     - {
       startTime: "13:30",
       endTime: "14:45",
-      sessionIds: [2,24,9]
+      sessionIds: [104,204,205]
     }
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [21,7,23]
+      sessionIds: [105,205,305]
     }    
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [21,7,23]
+      sessionIds: [106,206,306]
     }
     - {
       startTime: "14:45",
@@ -70,22 +70,17 @@
     - {
       startTime: "15:05",
       endTime: "16:00",
-      sessionIds: [18,5,1]
+      sessionIds: [107,207,307]
     }
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [20,8,3]
-    }
-    - {
-      startTime: "",
-      endTime: "",
-      sessionIds: [20,8,3]
+      sessionIds: [108,208,308]
     }
     - {
       startTime: "16:00",
       endTime: "16:30",
-      sessionIds: [903]
+      sessionIds: [902]
     }
     - {
       startTime: "16:30",
@@ -96,26 +91,4 @@
       startTime: "17:00",
       endTime: "",
       sessionIds: [805]
-    }
-- 
-  date: "2019-06-20"
-  dateReadable: "20 juni"
-  title: ""
-  subtitle: ""
-  image: "other/maptime_track_logo.svg"
-  timeslots:
-    - {
-      startTime: "11:45",
-      endTime: "13:00",
-      sessionIds: [401]
-    }
-    - {
-      startTime: "14:00",
-      endTime: "14:50",
-      sessionIds: [402]
-    }
-    - {
-      startTime: "15:20",
-      endTime: "16:10",
-      sessionIds: [402]
     }
