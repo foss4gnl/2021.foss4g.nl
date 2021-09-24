@@ -37,8 +37,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Nieuws"}
- - {permalink: "/conference/", text: "Programma"}
  - {permalink: "/workshops/", text: "Workshops"}
+ - {permalink: "/conference/", text: "Programma"}
 # - {permalink: "/photos/", text: "Foto's"}
  - {permalink: "/speakers/", text: "Sprekers"}
 bottomNavigationLinks:
