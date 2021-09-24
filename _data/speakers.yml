@@ -248,17 +248,6 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/erik-meerburg-53a8055/"}
   rockstar: true
 -
-  id: 21
-  name: "Maarten"
-  surname: "Pronk"
-  company: "Deltares / TU Delft"
-  title: ""
-  bio: ""
-  thumbnailUrl: maarten_pronk.jpg
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mjpronk"}
-  rockstar: true
--
   id: 22
   name: "Camilo Alexander"
   surname: "Leon-Sanchez"
