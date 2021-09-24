@@ -46,7 +46,7 @@ bottomNavigationLinks:
   - {link: "https://foss4g.nl", text: "Presentaties"}
 rightNavigationButtons:
   #- {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2019-60886980598", text: "Aanmelden"}
-  - {link: "https://foss4g.nl", text: "Presentaties"}
+  #- {link: "https://foss4g.nl", text: "Presentaties"}
 
 # About Block
 aboutTitle: "Over FOSS4GNL 2021"
