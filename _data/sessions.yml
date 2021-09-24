@@ -38,14 +38,14 @@
   subtype: presentation
   description: "-"
   speakers: [1]
-  language: "English"
+  language: "EN"
 -
   id: 902
   title: "Closing Keynote"
   subtype: presentation
   description: "-"
   speakers: [2]
-  language: "English"
+  language: "EN"
 
 -
   id: 101
@@ -81,14 +81,14 @@
   subtype: presentation
   description: "The WAPLUGIN is a tool created on the open-source software QGIS to compute water accounting and crop water productivity indicators based on WaPOR data, FAO's open-access remote-sensing database. The plugin creates a bridge between WaPOR information and QGIS and offers tools to process and calculate the indicators, such as the overall consumed ratio, the depleted fraction, and the overall field application ratio. Most of these water accounting and productivity indicators reflect the impact that agriculture has on water resources. Hence, their analysis will help identify specific issues that can be addressed by policymakers, large scheme irrigation managers, river basin authorities, water professionals, among others. It is possible to access the WAPLUGIN as any other QGIS plugin. Moreover, it has two main features: the WaPOR Catalog and the Indicator Calculator. On the one hand, the first feature can bring data from WaPOR to QGIS, providing direct access to the entire catalog, and the selection will depend on the user specifications (date, location, parameter, resolution). The selected data will then appear on the canvas as a raster layer. On the other hand, the plugin's second feature calculates some of the essential water accounting and productivity indicators based on WaPOR data. The first feature must specify the primary data like date, location, resolution, and units as in the first feature. Depending on the indicator, the input data can also include information provided by the user, apart from the WaPOR data. Finally, the resulting indicator will be added as a raster layer in the QGIS canvas, facilitating access to WaPOR data for QGIS users and providing good compatibility with the QGIS tools for further processing.The WAPLUGIN is an innovative tool facilitating water accounting and productivity analysis by bringing together two powerful open-source platforms for the water and remote sensing community. The plugin enables the easy access and processing of WaPOR data, making this less time-consuming for GIS analysts. Furthermore, the indicators will support users by generating maps and reports for further assessment and evaluation, identifying the places of high and low irrigation efficiency and the crop and water productivity behavior. Hence, it will be an excellent option for tracking an irrigation scheme's performance, making the water accounting computation by water professionals simple and easy to use."
   speakers: [24]
-  language: "English"  
+  language: "EN"  
 -
   id: 106
   title: "Interoperabiliteit: Het gebruik van Esri File geodatabases in Qgis"
   subtype: presentation
   description: "Ten behoeve van het verhogen van de adoptie en het verbetering de informatie uitwisseling binnen het BIM programma van de Provincie Gelderland hebben wij onlangs besloten onze BIM data uit te gaan wisselen middels een lichtgewicht uitwissel formaat. Hiervoor hebben wij in eerste instantie gekozen voor het Esri File geodatabases formaat omdat dit het beste bij onze organisatie. Om het gebruik hiervan en daarmee de adoptie van BIM zo groot mogelijk te maken willen we ervoor zorgen dat we naast een poriatary software oplossing ook een open-source oplossingen aan kunnen bieden. De komende maand gaan we vanuit de provincie Gelderland, samen met Terglobo de uitwisseling tussen Esri File geodatabases en Qgis verder uitbereiden en verbeteren en zullen dit beschikbaar maken als open-source plugin en/of toevoegen aan Qgis. In deze presentatie wil ik jullie graag mee nemen in de uitkomsten van deze ontwikkeling."
   speakers: [13]
-  language: "Nederlands"
+  language: "NL"
 -
   id: 107
   title: "A method to analyse LiDAR-data with QGIS"
@@ -109,28 +109,28 @@
   subtype: presentation
   description: "Steeds meer tools in de QGIS Processing Toolbox zijn beschikbaar via zogenaamde Processing Provider plugins. Met deze plugins kan je tools van bijvoorbeeld R, Whitebox of PCRaster gebruiken. Ze integreren netjes in QGIS, zodat je bijvoorbeeld ook grafische modellen kan maken en tools van verschillende providers kan combineren. De presentatie zal ingaan op de installatie van deze plugins en voorbeelden geven van het gebruik ervan."
   speakers: [4]
-  language: "EN or NL"
+  language: "EN/NL"
 -
   id: 202
   title: "Map algebra on steroids"
   subtype: presentation
   description: "map algebra, GIS, forward simulation modelling, high-performance computing (HPC), scalable computing, parallel computing, distributed computing, asynchronous many-tasks (AMT), LUE modelling framework, C++, Python"
   speakers: [25]
-  language: "English"
+  language: "EN"
 -
   id: 203
   title: "Reconstruction of 3D buildings with deep learning"
   subtype: presentation
   description: "-"
   speakers: [31]
-  language: "English"
+  language: "EN"
 -
   id: 204
   title: "Rethinking spatial data quality for open source geo-technologies"
   subtype: presentation
   description: "In this study I am trying to understand the relationship between context and spatial data quality. I concentrating on OpenStreetMap as a geo-technology and using different contextual lenses to explore any tangible and intangible relationships with its quality. For this presentation, I would like to present the embarkment and the disanchorment of my research journey towards RETHINKING different sides of dice of spatial data quality for OpenStreetMap and/or open source GIS tools. I will include how I am going to approach such subject and why it is important in ever-changing heterogeneity of OpenStreetMap. I will discuss four main aspects that includes contextual exploratory and explanatory case-studies analysis, Urban morphology, inclusive geovisualization and model thinking. I want to integrate these aspects, to develop an open-source GIS tool that would help using the knowledge developed from the research to visualize quality of OpenStreetMap with more contextual approach and definitions."
   speakers: [32]
-  language: "English"
+  language: "EN"
 -  
   id: 205
   title: "ITC’s Strategic Plan for Open Science 2021-2025 - Towards an Open Future"
@@ -142,49 +142,49 @@
     4) The OS Community Twente serves as an inter-disciplinary, bottom-up community to promote, learn, share, and discuss OS practices.
     5) Research & Funding aims to address challenges in OS through innovative developments and user studies. A further output is to generate funding to realise the ambitious aims presented in the plan.For a successful OS transition, the initiatives aim to address the Rewards & Recognition system, valorise Sharing & Collaboration, develop OS Knowledge & Skills, and foster Cultural change & Societal impact."
   speakers: [23]
-  language: "English"
+  language: "EN"
 -
   id: 206
   title: "OpenDataCube"
   subtype: presentation
   description: "-"
   speakers: [17]
-  language: "?"
+  language: "EN/NL"
 -
   id: 207
   title: "The new 3D BAG 2.0 for energy demand simulation: first tests"
   subtype: presentation
   description: "The 3D BAG v. 2.0 dataset has been recently released: it is a country-wide dataset containing all buildings in the Netherlands, modelled in multiple LoDs (LoD1.2, LoD1.3 and LoD2.2). In particular, the LoD2.2 allows differentiating between different thematic surfaces composing the building envelope. This paper describes the first steps to test and use the 3D BAG 2.0 to perform energy simulations and characterise the energy performance of the building stock. Two well-known energy simulation software packages have been tested: SimStadt and CitySim Pro. Particular care has been paid to generate a suitable, valid CityGML test dataset, located in the municipality of Rijssen-Holten in the central-eastern part of the Netherlands, that has been then used to test the energy simulation tools. Results from the simulation tools have been then stored into the 3D City Database, additionally extended to deal with the CityGML Energy ADE. The whole workflow has been checked in order to guarantee a lossless dataflow. The paper reports on the proposed workflow, the issues encountered, some solutions implemented, and what the next steps will be."
   speakers: [22]
-  language: "English"
+  language: "EN"
 -
   id: 208
   title: "Using FOSS to develop and operate a geospatial computing platform"
   subtype: presentation
   description: "The Geospatial Computing Platform (GCP) is ITC's state-of-the-art interactive computing platform provided to its staff, students, and alumni (https://crib.utwente.nl). The platform is designed to serve for self-learning, exploratory research, and education activities. It provides a user-friendly interface for geospatial data analysis and visualisation tasks with hundreds of ready-to-use scientific and geospatial software packages, including desktop applications, machine learning frameworks, distributed computing frameworks, and GPU-enabled computing capabilities. It is also based on 100% free and open-source software (FOSS). This talk aims to provide information on how such a computing platform can be developed by using FOSS. The architecture and software components of the platform will be described and our experience in designing and operating the GCP will be presented."
   speakers: [33]
-  language: "English"
+  language: "EN"
 -
   id: 301
   title: "Vectortegels: thematische en topografische kaarten maken"
   subtype: presentation
   description: "Aan de hand van projecten uit de afgelopen 2 jaar laten we de tips en tricks zien om vectortegels in te zetten voor het maken van thematische en topografische kaarten."
   speakers: [5]
-  language: "Nederlands"
+  language: "NL"
 -
   id: 302
   title: "Geo in geluid"
   subtype: presentation
   description: "Lawaai en geluidhinder spelen waar mensen wonen en werken. In de buurt is ook infrastructuur: mensen reizen met de trein of de auto van de ene plek naar de andere: van wonen naar werken en weer terug en daarnaast is er nog ander verkeer. Dat geeft geluid. Een heleboel geluid kan leiden tot geluidoverlast en dat kan weer leiden tot slaapverstoring, hoge bloeddruk en verlies aan gezonde levensjaren. In deze presentatie vertel ik hoe het Geluid werkveld gebruik maakt van de geowereld. Hoe ruimtelijke data in 3D worden opgebouwd om een geluidmodel te genereren, hoe geo-algoritmen helpen om een geluidberekening te doen en hoe het eindresultaat weer op een kaart gepresenteerd wordt. Voor de opzet van een omgevingsmodel komt hierbij de PDOK dataset 3D Geluid aan bod."
   speakers: [3]
-  language: "Nederlands"
+  language: "NL"
 -
   id: 303
   title: "Bodem data hub op basis van open source"
   subtype: presentation
   description: "Isric is gevestigd binnen Wageningen universiteit en beheert naast een collectie bodem profielen ook een een aantal globale datasets rond bodem en landgebruik. Voor het beheer van de applicaties rond deze datasets gebruiken we een geavanceerde gitops workflow in gitlab, docker en kubernetes. In deze presentatie een korte uitleg over de gemaakte keuzes en ervaringen. Maar ook een aantal tips hoe je onze api’s voor diverse doeleinden kunt gebruiken."
   speakers: [8]
-  language: "Nederlands"
+  language: "NL"
 -
   id: 304
   title: "Snelle BGT import met Docker"
@@ -199,21 +199,21 @@
   subtype: presentation
   description: "Door slim technieken te combineren is het mogelijk snel een server in de lucht te trekken met daarop een aantal dingen die je als geo nodig hebt. Binnen het tijdsbestek van deze presentatie wordt een server gestart, met PostGIS, GeoServer, en nog meer leuke dingen die je nodig hebt om een online GIS-omgeving te starten. Ideaal voor projecten, testdoeleinden of andere tijdelijke toepassingen."
   speakers: [10]
-  language: "Nederlands"
+  language: "NL"
 -
   id: 306
   title: "Zo gemakkelijk kun je geo-webdiensten uitrollen."
   subtype: presentation
   description: "Het installeren en onderhouden van Open Source server-componenten (denk: GeoServer, PostGIS etc) lijkt soms een brug te ver voor velen. De laatste jaren zijn er echter een aantal technologieën beschikbaar die het installeren, maar vooral ook het onderhouden/beheren vergemakkelijken. Het gaat om Cloud technologieën zoals Docker en GitHub. Voor Geonovum heb ik een platform opgezet om webdiensten voor de nieuwe OGC APIs voor Features (denk: WFS versie 3) te draaien. Het doel was om een aantal implementaties uit te proberen, maar vooral ook om de deployment (uitrol) laagdrempelig te maken zodat ook niet-programmeurs/systeem-beheerders dit platform kunnen onderhouden en uitbreiden. Door de combinatie van deze vier technieken is dit een succes geworden: Docker, GitHub, Ansible en GitHub Workflows. Deze zal ik toelichten. De server componenten zijn o.a. GeoServer, pygeoapi, QGIS Server en PostGIS. Meer weten? Uitgebreide documentatie op https://apitestdocs.geonovum.nl en aantal slides op https://files.justobjects.nl/presentation/opengeodag-2021/opengeodag-2021-just.pdf"
   speakers: [7]
-  language: "Nederlands"  
+  language: "NL"  
 -
   id: 307
   title: "De nieuwe EU digitale en data regels"
   subtype: presentation
   description: "Er is een nieuw Europees juridisch raamwerk voorgesteld, bestaande uit een digitale en datastrategie. De doorontwikkeling van INSPIRE krijgt daarin een plek, maar het raamwerk is veel verstrekkender, en een geopolitieke stellingname van de EU. De komende jaren worden die wetten van kracht, met impact op gebruik van geodata, basisregistraties, open data. Inclusief een heldere band met beleidsthema's van de Green Deal, als energietransitie, klimaatadaptatie, smart mobility, bouwen en voedsel. Een verschuiving in kijken naar data governance, en samenwerking over sectoren en landen heen. Heldere kansen voor FOSS4G om met elkaar eens te bespreken."
   speakers: [11]
-  language: "Nederlands"
+  language: "NL"
 -
   id: 308
   title: "De onmisbare rol van open data en GIS in reisfotografie"
@@ -269,4 +269,4 @@
   subtype: presentation
   description: "Overview of the journal, why it's exciting. https://joss.theoj.org/"
   speakers: [6]
-  language: "English"
+  language: "EN"
