@@ -56,9 +56,9 @@
   bio: "Onderwijs en capaciteits ontwikkeling voor de water sector in ontwikkelingslanden op het gebied van GIS, SDI en remote sensing. Uiteraard met open source software en open courseware."
   thumbnailUrl: HansVanDerKwast.jpg
   social: 
-        - {name: "twitter", link: "https://twitter.com/hansakwast"}
-        - {name: "linkedin", link: "https://www.linkedin.com/in/jvdkwast/"}
-        - {name: "youtube", link: "https://www.youtube.com/c/HansvanderKwast"}
+    - {name: "twitter", link: "https://twitter.com/hansakwast"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jvdkwast/"}
+    - {name: "youtube", link: "https://www.youtube.com/c/HansvanderKwast"}
   rockstar: true
 -
   id: 5
