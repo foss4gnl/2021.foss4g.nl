@@ -325,7 +325,9 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/martijn-van-der-struijk-91a73773/"}
   rockstar: true
--id: 28
+  
+-
+  id: 28
   name: "Irene"
   surname: "Pleizier"
   company: "Van Oord"
@@ -336,7 +338,8 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/irene-pleizier-0225453/"}
   rockstar: true
   
--id: 29
+- 
+  id: 29
   name: "Joachim"
   surname: "Tempelaars"
   company: "Veiligheidsregio Brabant Zuidoost"
@@ -346,7 +349,8 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/tempelaars-joachim-21097164/"}
   rockstar: true
--id: 30
+-
+  id: 30
   name: "Jeroen"
   surname: "Hogeboom"
   company: "Kadaster"
@@ -355,7 +359,8 @@
   thumbnailUrl: jeroenhogeboom.jpg
   social: 
   rockstar: true
--id: 31
+-
+  id: 31
   name: "Zhaiyu"
   surname: "Chen"
   company: "TU Delft / 3DGI"
@@ -366,7 +371,8 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/zhaiyu-chen/"}
   rockstar: true
   
-  -id: 32
+- 
+  id: 32
   name: "Muhammad"
   surname: "Saleem"
   company: ""
@@ -377,7 +383,8 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/muhammad-saleem056/"}
   rockstar: true
   
--id: 33
+-
+  id: 33
   name: "Serkan"
   surname: "Girgin"
   company: "Faculty of Geo-Information Science and Earth Observation (ITC)"
