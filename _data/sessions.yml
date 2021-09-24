@@ -55,7 +55,7 @@
   speakers: [9]
   language: "NL"
 -
- id: 102
+  id: 102
   title: "Introductie op het Geoforum: de plek voor het uitwisselen van kennis en ervaring op het gebied van geo"
   subtype: presentation
   description: "-"
@@ -135,7 +135,7 @@
   id: 205
   title: "ITC’s Strategic Plan for Open Science 2021-2025 - Towards an Open Future"
   subtype: presentation
-  description: "Open Science (OS) is an umbrella term comprising principles to increase the transparency of research. Besides Open Access to scientific articles, these principles contain public availability of reusable methods (e.g., code and tools), data, and educational materials. In this talk, I will outline a plan to achieve the transition towards OS at ITC. ITC is the Faculty of Geo-information Science and Earth Observation. ITC’s Strategic Plan for OS 2021 2025 Towards an Open Future contains five initiatives
+  description: "Open Science (OS) is an umbrella term comprising principles to increase the transparency of research. Besides Open Access to scientific articles, these principles contain public availability of reusable methods (e.g., code and tools), data, and educational materials. In this talk, I will outline a plan to achieve the transition towards OS at ITC. ITC is the Faculty of Geo-information Science and Earth Observation. ITC’s Strategic Plan for OS 2021 2025 Towards an Open Future contains five initiatives<br />
     1) OS at ITC aims to provide guidelines and OS capacity building for ITC researchers and students to address the obstacles they encounter when doing OS.
     2) The ITC Knowledge Hub will provide services and tools to access, create, and publish open research, including scientific results based on qualitative/quantitative analyses using computational workflows.
     3) Open Educational Resources will be addressed by exploring options to realise Open Educational Resources at ITC and providing lecturers with guidelines and support to create them.
@@ -223,7 +223,6 @@
   description: "Veel geografen en GIS'ers houden van fotografie, en een nog groter aantal houdt van reizen. Of je nu met de auto, fiets, boot of op een ezel de wereld verkent, kaarten zijn onmisbaar voor de reisvoorbereiding en navigatie ter plaatsen. Daarnaast speelt open data een belangrijke rol om de locatie van foto's (zonder coördinaten) te achterhalen. Met als rode draad de ontwikkeling van mijn boek Surprising Europe, neem ik je mee op de creatieve route van reisvoorbereiding tot kaartopmaak en laat ik zien hoe open data en GIS een hoofdrol hebben gespeeld in mijn reizen en werk als landschapsfotograaf. "
   speakers: [14]
   language: "NL"
-
 -
   id: 701
   title: "Using the 3D BAG in Python"
@@ -231,8 +230,7 @@
   description: "In this workshop we are going to walk you through the details of the 3D BAG data set, which is a collection of 3D building models at multiple levels of detail for the Netherlands. See https://3dbag.nl. We will introduce the data set, discussing the data model, available formats, data quality and some of the peculiarities.<br /><br /> In the hands-on part of the session, we will show how you can make the most out of the data by using Python, whether you integrate with other services or use it directly for analysis. In this part we will focus on CityJSON (http://www.cityjson.org) and cjio (https://github.com/cityjson/cjio), but we will also show other tools that can be helpful for working with the data."
   speakers: [15, 16]
   language: "EN/NL"
- 
--
+ -
   id: 702
   title: "MapLibre: een nieuwe JS bibliotheek voor interactieve kaarten op het Web"
   subtype: presentation
