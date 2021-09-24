@@ -316,14 +316,14 @@
   rockstar: true
 -
   id: 27
-  name: "Oscar"
-  surname: "Porsius"
+  name: "Martijn"
+  surname: " van der Struijk"
   company: "B3Partners"
-  title: ""
+  title: "Manager Software Development team"
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: martijnvanderstruik.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/oscar-p-1a6a1b209"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/martijn-van-der-struijk-91a73773/"}
   rockstar: true
 -
   id: 28
