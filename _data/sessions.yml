@@ -68,7 +68,7 @@
   description: "De Provincies hebben vanuit het Provinciaal Platform Geo geïnvesteerd in de ontwikkeling van vrij beschikbare trainingsvideo’s voor QGIS. Waarom hebben we dit gedaan, hoe kan je het inzetten en wat zijn de vervolgstappen?"
   speakers: [12]
   language: "NL"
-  -
+-
   id: 104
   title: "-"
   subtype: presentation
@@ -117,15 +117,15 @@
   description: "map algebra, GIS, forward simulation modelling, high-performance computing (HPC), scalable computing, parallel computing, distributed computing, asynchronous many-tasks (AMT), LUE modelling framework, C++, Python"
   speakers: [25]
   language: "English"
-
--id: 203
+-
+  id: 203
   title: "Reconstruction of 3D buildings with deep learning"
   subtype: presentation
   description: "-"
   speakers: [31]
   language: "English"
-  
--id: 204
+-
+  id: 204
   title: "Rethinking spatial data quality for open source geo-technologies"
   subtype: presentation
   description: "In this study I am trying to understand the relationship between context and spatial data quality. I concentrating on OpenStreetMap as a geo-technology and using different contextual lenses to explore any tangible and intangible relationships with its quality. For this presentation, I would like to present the embarkment and the disanchorment of my research journey towards RETHINKING different sides of dice of spatial data quality for OpenStreetMap and/or open source GIS tools. I will include how I am going to approach such subject and why it is important in ever-changing heterogeneity of OpenStreetMap. I will discuss four main aspects that includes contextual exploratory and explanatory case-studies analysis, Urban morphology, inclusive geovisualization and model thinking. I want to integrate these aspects, to develop an open-source GIS tool that would help using the knowledge developed from the research to visualize quality of OpenStreetMap with more contextual approach and definitions."
@@ -171,8 +171,8 @@
   description: "Aan de hand van projecten uit de afgelopen 2 jaar laten we de tips en tricks zien om vectortegels in te zetten voor het maken van thematische en topografische kaarten."
   speakers: [5]
   language: "Nederlands"
-
-- id: 302
+-
+  id: 302
   title: "Geo in geluid"
   subtype: presentation
   description: "Lawaai en geluidhinder spelen waar mensen wonen en werken. In de buurt is ook infrastructuur: mensen reizen met de trein of de auto van de ene plek naar de andere: van wonen naar werken en weer terug en daarnaast is er nog ander verkeer. Dat geeft geluid. Een heleboel geluid kan leiden tot geluidoverlast en dat kan weer leiden tot slaapverstoring, hoge bloeddruk en verlies aan gezonde levensjaren. In deze presentatie vertel ik hoe het Geluid werkveld gebruik maakt van de geowereld. Hoe ruimtelijke data in 3D worden opgebouwd om een geluidmodel te genereren, hoe geo-algoritmen helpen om een geluidberekening te doen en hoe het eindresultaat weer op een kaart gepresenteerd wordt. Voor de opzet van een omgevingsmodel komt hierbij de PDOK dataset 3D Geluid aan bod."
@@ -185,7 +185,6 @@
   description: "Isric is gevestigd binnen Wageningen universiteit en beheert naast een collectie bodem profielen ook een een aantal globale datasets rond bodem en landgebruik. Voor het beheer van de applicaties rond deze datasets gebruiken we een geavanceerde gitops workflow in gitlab, docker en kubernetes. In deze presentatie een korte uitleg over de gemaakte keuzes en ervaringen. Maar ook een aantal tips hoe je onze api’s voor diverse doeleinden kunt gebruiken."
   speakers: [8]
   language: "Nederlands"
-  
 -
   id: 304
   title: "Snelle BGT import met Docker"
@@ -215,7 +214,6 @@
   description: "Er is een nieuw Europees juridisch raamwerk voorgesteld, bestaande uit een digitale en datastrategie. De doorontwikkeling van INSPIRE krijgt daarin een plek, maar het raamwerk is veel verstrekkender, en een geopolitieke stellingname van de EU. De komende jaren worden die wetten van kracht, met impact op gebruik van geodata, basisregistraties, open data. Inclusief een heldere band met beleidsthema's van de Green Deal, als energietransitie, klimaatadaptatie, smart mobility, bouwen en voedsel. Een verschuiving in kijken naar data governance, en samenwerking over sectoren en landen heen. Heldere kansen voor FOSS4G om met elkaar eens te bespreken."
   speakers: [11]
   language: "Nederlands"
-
 -
   id: 308
   title: "De onmisbare rol van open data en GIS in reisfotografie"
@@ -230,7 +228,7 @@
   description: "In this workshop we are going to walk you through the details of the 3D BAG data set, which is a collection of 3D building models at multiple levels of detail for the Netherlands. See https://3dbag.nl. We will introduce the data set, discussing the data model, available formats, data quality and some of the peculiarities.<br /><br /> In the hands-on part of the session, we will show how you can make the most out of the data by using Python, whether you integrate with other services or use it directly for analysis. In this part we will focus on CityJSON (http://www.cityjson.org) and cjio (https://github.com/cityjson/cjio), but we will also show other tools that can be helpful for working with the data."
   speakers: [15, 16]
   language: "EN/NL"
- -
+-
   id: 702
   title: "MapLibre: een nieuwe JS bibliotheek voor interactieve kaarten op het Web"
   subtype: presentation
