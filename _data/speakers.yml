@@ -325,15 +325,65 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/martijn-van-der-struijk-91a73773/"}
   rockstar: true
--
-  id: 28
+-id: 28
+  name: "Irene"
+  surname: "Pleizier"
+  company: "Van Oord"
+  title: "Teamleider GIS"
+  bio: ""
+  thumbnailUrl: irenepleizier.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/irene-pleizier-0225453/"}
+  rockstar: true
+  
+-id: 29
+  name: "Joachim"
+  surname: "Tempelaars"
+  company: "Veiligheidsregio Brabant Zuidoost"
+  title: "Operationele informatie Geo-data Geo-applicatie"
+  bio: ""
+  thumbnailUrl: joachim.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tempelaars-joachim-21097164/"}
+  rockstar: true
+-id: 30
+  name: "Jeroen"
+  surname: "Hogeboom"
+  company: "Kadaster"
+  title: "Adviseur en productowner PDOK"
+  bio: ""
+  thumbnailUrl: jeroenhogeboom.jpg
+  social: 
+  rockstar: true
+-id: 31
+  name: "Zhaiyu"
+  surname: "Chen"
+  company: "TU Delft / 3DGI"
+  title: "Researcher"
+  bio: ""
+  thumbnailUrl: zhaiyu.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/zhaiyu-chen/"}
+  rockstar: true
+  
+  -id: 32
+  name: "Muhammad"
+  surname: "Saleem"
+  company: ""
+  title: "Researcher"
+  bio: ""
+  thumbnailUrl: muhammedsaleem.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/muhammad-saleem056/"}
+  rockstar: true
+  
+-id: 33
   name: "Serkan"
   surname: "Girgin"
-  company: "ITC"
-  title: ""
+  company: "Faculty of Geo-Information Science and Earth Observation (ITC)"
+  title: "Assistant Professor"
   bio: ""
-  thumbnailUrl: serkan_girgin.jpg
+  thumbnailUrl: serkangirgin.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/serkan-girgin"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/serkan-girgin/
   rockstar: true
-

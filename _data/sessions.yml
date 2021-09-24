@@ -46,76 +46,42 @@
   description: "-"
   speakers: [2]
   language: "English"
--
-  id: 302
-  title: "Geo in geluid"
-  subtype: presentation
-  description: "Lawaai en geluidhinder spelen waar mensen wonen en werken. In de buurt is ook infrastructuur: mensen reizen met de trein of de auto van de ene plek naar de andere: van wonen naar werken en weer terug en daarnaast is er nog ander verkeer. Dat geeft geluid. Een heleboel geluid kan leiden tot geluidoverlast en dat kan weer leiden tot slaapverstoring, hoge bloeddruk en verlies aan gezonde levensjaren. In deze presentatie vertel ik hoe het Geluid werkveld gebruik maakt van de geowereld. Hoe ruimtelijke data in 3D worden opgebouwd om een geluidmodel te genereren, hoe geo-algoritmen helpen om een geluidberekening te doen en hoe het eindresultaat weer op een kaart gepresenteerd wordt. Voor de opzet van een omgevingsmodel komt hierbij de PDOK dataset 3D Geluid aan bod."
-  speakers: [3]
-  language: "Nederlands"
--
-  id: 201
-  title: "QGIS Processing Provider plugins"
-  subtype: presentation
-  description: "Steeds meer tools in de QGIS Processing Toolbox zijn beschikbaar via zogenaamde Processing Provider plugins. Met deze plugins kan je tools van bijvoorbeeld R, Whitebox of PCRaster gebruiken. Ze integreren netjes in QGIS, zodat je bijvoorbeeld ook grafische modellen kan maken en tools van verschillende providers kan combineren. De presentatie zal ingaan op de installatie van deze plugins en voorbeelden geven van het gebruik ervan."
-  speakers: [4]
-  language: "EN or NL"
--
-  id: 301
-  title: "Vectortegels: thematische en topografische kaarten maken"
-  subtype: presentation
-  description: "Aan de hand van projecten uit de afgelopen 2 jaar laten we de tips en tricks zien om vectortegels in te zetten voor het maken van thematische en topografische kaarten."
-  speakers: [5]
-  language: "Nederlands"
--
-  id:  999
-  title: "JOSS is a good place to publish your code"
-  subtype: presentation
-  description: "Overview of the journal, why it's exciting. https://joss.theoj.org/"
-  speakers: [6]
-  language: "English"
--
-  id: 306
-  title: "Zo gemakkelijk kun je geo-webdiensten uitrollen."
-  subtype: presentation
-  description: "Het installeren en onderhouden van Open Source server-componenten (denk: GeoServer, PostGIS etc) lijkt soms een brug te ver voor velen. De laatste jaren zijn er echter een aantal technologieën beschikbaar die het installeren, maar vooral ook het onderhouden/beheren vergemakkelijken. Het gaat om Cloud technologieën zoals Docker en GitHub. Voor Geonovum heb ik een platform opgezet om webdiensten voor de nieuwe OGC APIs voor Features (denk: WFS versie 3) te draaien. Het doel was om een aantal implementaties uit te proberen, maar vooral ook om de deployment (uitrol) laagdrempelig te maken zodat ook niet-programmeurs/systeem-beheerders dit platform kunnen onderhouden en uitbreiden. Door de combinatie van deze vier technieken is dit een succes geworden: Docker, GitHub, Ansible en GitHub Workflows. Deze zal ik toelichten. De server componenten zijn o.a. GeoServer, pygeoapi, QGIS Server en PostGIS. Meer weten? Uitgebreide documentatie op https://apitestdocs.geonovum.nl en aantal slides op https://files.justobjects.nl/presentation/opengeodag-2021/opengeodag-2021-just.pdf"
-  speakers: [7]
-  language: "Nederlands"
--
-  id: 301
-  title: "Bodem data hub op basis van open source"
-  subtype: presentation
-  description: "Isric is gevestigd binnen Wageningen universiteit en beheert naast een collectie bodem profielen ook een een aantal globale datasets rond bodem en landgebruik. Voor het beheer van de applicaties rond deze datasets gebruiken we een geavanceerde gitops workflow in gitlab, docker en kubernetes. In deze presentatie een korte uitleg over de gemaakte keuzes en ervaringen. Maar ook een aantal tips hoe je onze api’s voor diverse doeleinden kunt gebruiken."
-  speakers: [8]
-  language: "Nederlands"
+
 -
   id: 101
   title: "QGIS Gebruikersgroep NL en andere leuke dingen voor QGIS'ers-"
   subtype: presentation
   description: "Een korte terugblik op het afgelopen jaar en vooruitkijken, wat doet de Nederlandse QGIS gebruikersgroep? En een QGIS plugin showcase: styles and resource manager"
   speakers: [9]
-  language: "-"
+  language: "NL"
 -
-  id: 305
-  title: "LandGoed Cloud"
+ id: 102
+  title: "Introductie op het Geoforum: de plek voor het uitwisselen van kennis en ervaring op het gebied van geo"
   subtype: presentation
-  description: "Door slim technieken te combineren is het mogelijk snel een server in de lucht te trekken met daarop een aantal dingen die je als geo nodig hebt. Binnen het tijdsbestek van deze presentatie wordt een server gestart, met PostGIS, GeoServer, en nog meer leuke dingen die je nodig hebt om een online GIS-omgeving te starten. Ideaal voor projecten, testdoeleinden of andere tijdelijke toepassingen."
-  speakers: [10]
-  language: "Nederlands"
--
-  id: 307
-  title: "De nieuwe EU digitale en data regels"
-  subtype: presentation
-  description: "Er is een nieuw Europees juridisch raamwerk voorgesteld, bestaande uit een digitale en datastrategie. De doorontwikkeling van INSPIRE krijgt daarin een plek, maar het raamwerk is veel verstrekkender, en een geopolitieke stellingname van de EU. De komende jaren worden die wetten van kracht, met impact op gebruik van geodata, basisregistraties, open data. Inclusief een heldere band met beleidsthema's van de Green Deal, als energietransitie, klimaatadaptatie, smart mobility, bouwen en voedsel. Een verschuiving in kijken naar data governance, en samenwerking over sectoren en landen heen. Heldere kansen voor FOSS4G om met elkaar eens te bespreken."
-  speakers: [11]
-  language: "Nederlands"
+  description: "-"
+  speakers: [30]
+  language: "NL"
 -
   id: 103
   title: "De Provincies en open source (Q)GIS trainingen."
   subtype: presentation
   description: "De Provincies hebben vanuit het Provinciaal Platform Geo geïnvesteerd in de ontwikkeling van vrij beschikbare trainingsvideo’s voor QGIS. Waarom hebben we dit gedaan, hoe kan je het inzetten en wat zijn de vervolgstappen?"
   speakers: [12]
-  language: "-"
+  language: "NL"
+  -
+  id: 104
+  title: "-"
+  subtype: presentation
+  description: "-"
+  speakers: [28]
+  language: "NL"
+-
+  id: 105
+  title: "WAPLUGIN: Water Accounting and Productivity Plugin"
+  subtype: presentation
+  description: "The WAPLUGIN is a tool created on the open-source software QGIS to compute water accounting and crop water productivity indicators based on WaPOR data, FAO's open-access remote-sensing database. The plugin creates a bridge between WaPOR information and QGIS and offers tools to process and calculate the indicators, such as the overall consumed ratio, the depleted fraction, and the overall field application ratio. Most of these water accounting and productivity indicators reflect the impact that agriculture has on water resources. Hence, their analysis will help identify specific issues that can be addressed by policymakers, large scheme irrigation managers, river basin authorities, water professionals, among others. It is possible to access the WAPLUGIN as any other QGIS plugin. Moreover, it has two main features: the WaPOR Catalog and the Indicator Calculator. On the one hand, the first feature can bring data from WaPOR to QGIS, providing direct access to the entire catalog, and the selection will depend on the user specifications (date, location, parameter, resolution). The selected data will then appear on the canvas as a raster layer. On the other hand, the plugin's second feature calculates some of the essential water accounting and productivity indicators based on WaPOR data. The first feature must specify the primary data like date, location, resolution, and units as in the first feature. Depending on the indicator, the input data can also include information provided by the user, apart from the WaPOR data. Finally, the resulting indicator will be added as a raster layer in the QGIS canvas, facilitating access to WaPOR data for QGIS users and providing good compatibility with the QGIS tools for further processing.The WAPLUGIN is an innovative tool facilitating water accounting and productivity analysis by bringing together two powerful open-source platforms for the water and remote sensing community. The plugin enables the easy access and processing of WaPOR data, making this less time-consuming for GIS analysts. Furthermore, the indicators will support users by generating maps and reports for further assessment and evaluation, identifying the places of high and low irrigation efficiency and the crop and water productivity behavior. Hence, it will be an excellent option for tracking an irrigation scheme's performance, making the water accounting computation by water professionals simple and easy to use."
+  speakers: [24]
+  language: "English"  
 -
   id: 106
   title: "Interoperabiliteit: Het gebruik van Esri File geodatabases in Qgis"
@@ -124,12 +90,59 @@
   speakers: [13]
   language: "Nederlands"
 -
-  id: 308
-  title: "De onmisbare rol van open data en GIS in reisfotografie"
+  id: 107
+  title: "A method to analyse LiDAR-data with QGIS"
   subtype: presentation
-  description: "Veel geografen en GIS'ers houden van fotografie, en een nog groter aantal houdt van reizen. Of je nu met de auto, fiets, boot of op een ezel de wereld verkent, kaarten zijn onmisbaar voor de reisvoorbereiding en navigatie ter plaatsen. Daarnaast speelt open data een belangrijke rol om de locatie van foto's (zonder coördinaten) te achterhalen. Met als rode draad de ontwikkeling van mijn boek Surprising Europe, neem ik je mee op de creatieve route van reisvoorbereiding tot kaartopmaak en laat ik zien hoe open data en GIS een hoofdrol hebben gespeeld in mijn reizen en werk als landschapsfotograaf. "
-  speakers: [14]
+  description: "This research aims to investigate a new method for stream delineation with point cloud data in areas with low topographical relief, by using high-quality LiDAR point cloud data. Stream delineation is the derivation of streams, based on elevation data. By optimally using the quality LiDAR point cloud data, it is expected that better results in this field of study can be retrieved. The main objective of this research was to find and provide a proof of concept of an innovative method for stream delineation with direct point cloud analysis. Current methods predominantly use raster-based methods. Because of necessary interpolations that must be done during the creation of a raster terrain model, data is generalized and not optimally utilized for the analysis. The most commonly used conventional method is the D8-method. This method has limited direction options and, therefore, gives length errors. The new method handles this problem, as it can flow into an infinite number of directions. To identify the most suitable method that uses point cloud data more directly and to overcome the problem of the limited directions, an extensive theoretical review was performed and several prototypes were developed. The new method was selected by regarding three main requirements: accessibility, accuracy and simplicity. This means, respectively that the new method should be openly available for everyone, is more accurate than conventional approaches and is relatively easy to apply. This resulted in a new method: the absolute point-method. To ensure open accessibility of this method, the source code of this method can be found on: https://github.com/stn228/Absolute_point_method_Stream_delineation. This method looks for the lowest point within a specified search radius. To avoid getting in a local depression, an extendable neighbourhood and a maximum allowed course change was included in the algorithm. To examine the added value of the newly designed method, the results were compared to the results of a conventional stream delineation method: the deterministic 8 directions (D8), raster-based method. This research not only shows the added value of the newly designed absolute point-method but does also underline the great potential of point cloud data for hydrological analysis. The Root Mean Square Error of the D8 and the absolute point-method results were compared to a reference stream and the absolute point-method showed a significantly higher accuracy. Although this approach is very local, the absolute point-method offers a good alternative if conventional methods do not return satisfying results. It was demonstrated that, mostly in areas with very low topographical relief, the accuracy of this method is significantly higher. This shows the added value of the use of direct point cloud data for hydrological analysis. As hydrological applications become more and more important for proper water contamination management, this research advocates for a broader development of direct point cloud based hydrological tools. Finally, this research provides different suggestions for future research to scale this method. By adopting more efficient data structures and analysis methods for the point cloud, more advanced hydrological methods can become available."
+  speakers: [26]
+  language: ""
+-
+ id: 108
+  title: "OIV plugin, QGIS bij de brandweer"
+  subtype: presentation
+  description: "-"
+  speakers: [29]
   language: "NL"
+-
+  id: 201
+  title: "QGIS Processing Provider plugins"
+  subtype: presentation
+  description: "Steeds meer tools in de QGIS Processing Toolbox zijn beschikbaar via zogenaamde Processing Provider plugins. Met deze plugins kan je tools van bijvoorbeeld R, Whitebox of PCRaster gebruiken. Ze integreren netjes in QGIS, zodat je bijvoorbeeld ook grafische modellen kan maken en tools van verschillende providers kan combineren. De presentatie zal ingaan op de installatie van deze plugins en voorbeelden geven van het gebruik ervan."
+  speakers: [4]
+  language: "EN or NL"
+-
+  id: 202
+  title: "Map algebra on steroids"
+  subtype: presentation
+  description: "map algebra, GIS, forward simulation modelling, high-performance computing (HPC), scalable computing, parallel computing, distributed computing, asynchronous many-tasks (AMT), LUE modelling framework, C++, Python"
+  speakers: [25]
+  language: "English"
+
+-id: 203
+  title: "Reconstruction of 3D buildings with deep learning"
+  subtype: presentation
+  description: "-"
+  speakers: [31]
+  language: "English"
+  
+-id: 204
+  title: "Rethinking spatial data quality for open source geo-technologies"
+  subtype: presentation
+  description: "In this study I am trying to understand the relationship between context and spatial data quality. I concentrating on OpenStreetMap as a geo-technology and using different contextual lenses to explore any tangible and intangible relationships with its quality. For this presentation, I would like to present the embarkment and the disanchorment of my research journey towards RETHINKING different sides of dice of spatial data quality for OpenStreetMap and/or open source GIS tools. I will include how I am going to approach such subject and why it is important in ever-changing heterogeneity of OpenStreetMap. I will discuss four main aspects that includes contextual exploratory and explanatory case-studies analysis, Urban morphology, inclusive geovisualization and model thinking. I want to integrate these aspects, to develop an open-source GIS tool that would help using the knowledge developed from the research to visualize quality of OpenStreetMap with more contextual approach and definitions."
+  speakers: [32]
+  language: "English"
+-  
+  id: 205
+  title: "ITC’s Strategic Plan for Open Science 2021-2025 - Towards an Open Future"
+  subtype: presentation
+  description: "Open Science (OS) is an umbrella term comprising principles to increase the transparency of research. Besides Open Access to scientific articles, these principles contain public availability of reusable methods (e.g., code and tools), data, and educational materials. In this talk, I will outline a plan to achieve the transition towards OS at ITC. ITC is the Faculty of Geo-information Science and Earth Observation. ITC’s Strategic Plan for OS 2021 2025 Towards an Open Future contains five initiatives
+    1) OS at ITC aims to provide guidelines and OS capacity building for ITC researchers and students to address the obstacles they encounter when doing OS.
+    2) The ITC Knowledge Hub will provide services and tools to access, create, and publish open research, including scientific results based on qualitative/quantitative analyses using computational workflows.
+    3) Open Educational Resources will be addressed by exploring options to realise Open Educational Resources at ITC and providing lecturers with guidelines and support to create them.
+    4) The OS Community Twente serves as an inter-disciplinary, bottom-up community to promote, learn, share, and discuss OS practices.
+    5) Research & Funding aims to address challenges in OS through innovative developments and user studies. A further output is to generate funding to realise the ambitious aims presented in the plan.For a successful OS transition, the initiatives aim to address the Rewards & Recognition system, valorise Sharing & Collaboration, develop OS Knowledge & Skills, and foster Cultural change & Societal impact."
+  speakers: [23]
+  language: "English"
 -
   id: 206
   title: "OpenDataCube"
@@ -145,39 +158,34 @@
   speakers: [22]
   language: "English"
 -
-  id: 205
-  title: "ITC’s Strategic Plan for Open Science 2021-2025 - Towards an Open Future"
+  id: 208
+  title: "Using FOSS to develop and operate a geospatial computing platform"
   subtype: presentation
-  description: "Open Science (OS) is an umbrella term comprising principles to increase the transparency of research. Besides Open Access to scientific articles, these principles contain public availability of reusable methods (e.g., code and tools), data, and educational materials. In this talk, I will outline a plan to achieve the transition towards OS at ITC. ITC is the Faculty of Geo-information Science and Earth Observation. ITC’s Strategic Plan for OS 2021-2025 - Towards an Open Future contains five initiatives
-1) OS at ITC aims to provide guidelines and OS capacity building for ITC researchers and students to address the obstacles they encounter when doing OS.
-2) The ITC Knowledge Hub will provide services and tools to access, create, and publish open research, including scientific results based on qualitative/quantitative analyses using computational workflows.
-3) Open Educational Resources will be addressed by exploring options to realise Open Educational Resources at ITC and providing lecturers with guidelines and support to create them.
-4) The OS Community Twente serves as an inter-disciplinary, bottom-up community to promote, learn, share, and discuss OS practices.
-5) Research & Funding aims to address challenges in OS through innovative developments and user studies. A further output is to generate funding to realise the ambitious aims presented in the plan.
-For a successful OS transition, the initiatives aim to address the Rewards & Recognition system, valorise Sharing & Collaboration, develop OS Knowledge & Skills, and foster Cultural change & Societal impact."
-  speakers: [23]
+  description: "The Geospatial Computing Platform (GCP) is ITC's state-of-the-art interactive computing platform provided to its staff, students, and alumni (https://crib.utwente.nl). The platform is designed to serve for self-learning, exploratory research, and education activities. It provides a user-friendly interface for geospatial data analysis and visualisation tasks with hundreds of ready-to-use scientific and geospatial software packages, including desktop applications, machine learning frameworks, distributed computing frameworks, and GPU-enabled computing capabilities. It is also based on 100% free and open-source software (FOSS). This talk aims to provide information on how such a computing platform can be developed by using FOSS. The architecture and software components of the platform will be described and our experience in designing and operating the GCP will be presented."
+  speakers: [33]
   language: "English"
 -
-  id: 105
-  title: "WAPLUGIN: Water Accounting and Productivity Plugin"
+  id: 301
+  title: "Vectortegels: thematische en topografische kaarten maken"
   subtype: presentation
-  description: "The WAPLUGIN is a tool created on the open-source software QGIS to compute water accounting and crop water productivity indicators based on WaPOR data, FAO's open-access remote-sensing database. The plugin creates a bridge between WaPOR information and QGIS and offers tools to process and calculate the indicators, such as the overall consumed ratio, the depleted fraction, and the overall field application ratio. Most of these water accounting and productivity indicators reflect the impact that agriculture has on water resources. Hence, their analysis will help identify specific issues that can be addressed by policymakers, large scheme irrigation managers, river basin authorities, water professionals, among others. It is possible to access the WAPLUGIN as any other QGIS plugin. Moreover, it has two main features: the WaPOR Catalog and the Indicator Calculator. On the one hand, the first feature can bring data from WaPOR to QGIS, providing direct access to the entire catalog, and the selection will depend on the user specifications (date, location, parameter, resolution). The selected data will then appear on the canvas as a raster layer. On the other hand, the plugin's second feature calculates some of the essential water accounting and productivity indicators based on WaPOR data. The first feature must specify the primary data like date, location, resolution, and units as in the first feature. Depending on the indicator, the input data can also include information provided by the user, apart from the WaPOR data. Finally, the resulting indicator will be added as a raster layer in the QGIS canvas, facilitating access to WaPOR data for QGIS users and providing good compatibility with the QGIS tools for further processing.The WAPLUGIN is an innovative tool facilitating water accounting and productivity analysis by bringing together two powerful open-source platforms for the water and remote sensing community. The plugin enables the easy access and processing of WaPOR data, making this less time-consuming for GIS analysts. Furthermore, the indicators will support users by generating maps and reports for further assessment and evaluation, identifying the places of high and low irrigation efficiency and the crop and water productivity behavior. Hence, it will be an excellent option for tracking an irrigation scheme's performance, making the water accounting computation by water professionals simple and easy to use."
-  speakers: [24]
-  language: "English"
+  description: "Aan de hand van projecten uit de afgelopen 2 jaar laten we de tips en tricks zien om vectortegels in te zetten voor het maken van thematische en topografische kaarten."
+  speakers: [5]
+  language: "Nederlands"
+
+- id: 302
+  title: "Geo in geluid"
+  subtype: presentation
+  description: "Lawaai en geluidhinder spelen waar mensen wonen en werken. In de buurt is ook infrastructuur: mensen reizen met de trein of de auto van de ene plek naar de andere: van wonen naar werken en weer terug en daarnaast is er nog ander verkeer. Dat geeft geluid. Een heleboel geluid kan leiden tot geluidoverlast en dat kan weer leiden tot slaapverstoring, hoge bloeddruk en verlies aan gezonde levensjaren. In deze presentatie vertel ik hoe het Geluid werkveld gebruik maakt van de geowereld. Hoe ruimtelijke data in 3D worden opgebouwd om een geluidmodel te genereren, hoe geo-algoritmen helpen om een geluidberekening te doen en hoe het eindresultaat weer op een kaart gepresenteerd wordt. Voor de opzet van een omgevingsmodel komt hierbij de PDOK dataset 3D Geluid aan bod."
+  speakers: [3]
+  language: "Nederlands"
 -
-  id: 102
-  title: "Map algebra on steroids"
+  id: 303
+  title: "Bodem data hub op basis van open source"
   subtype: presentation
-  description: "map algebra, GIS, forward simulation modelling, high-performance computing (HPC), scalable computing, parallel computing, distributed computing, asynchronous many-tasks (AMT), LUE modelling framework, C++, Python"
-  speakers: [25]
-  language: "English"
--
-  id: 107
-  title: "A method to analyse LiDAR-data with QGIS"
-  subtype: presentation
-  description: "This research aims to investigate a new method for stream delineation with point cloud data in areas with low topographical relief, by using high-quality LiDAR point cloud data. Stream delineation is the derivation of streams, based on elevation data. By optimally using the quality LiDAR point cloud data, it is expected that better results in this field of study can be retrieved. The main objective of this research was to find and provide a proof of concept of an innovative method for stream delineation with direct point cloud analysis. Current methods predominantly use raster-based methods. Because of necessary interpolations that must be done during the creation of a raster terrain model, data is generalized and not optimally utilized for the analysis. The most commonly used conventional method is the D8-method. This method has limited direction options and, therefore, gives length errors. The new method handles this problem, as it can flow into an infinite number of directions. To identify the most suitable method that uses point cloud data more directly and to overcome the problem of the limited directions, an extensive theoretical review was performed and several prototypes were developed. The new method was selected by regarding three main requirements: accessibility, accuracy and simplicity. This means, respectively that the new method should be openly available for everyone, is more accurate than conventional approaches and is relatively easy to apply. This resulted in a new method: the absolute point-method. To ensure open accessibility of this method, the source code of this method can be found on: https://github.com/stn228/Absolute_point_method_Stream_delineation. This method looks for the lowest point within a specified search radius. To avoid getting in a local depression, an extendable neighbourhood and a maximum allowed course change was included in the algorithm. To examine the added value of the newly designed method, the results were compared to the results of a conventional stream delineation method: the deterministic 8 directions (D8), raster-based method. This research not only shows the added value of the newly designed absolute point-method but does also underline the great potential of point cloud data for hydrological analysis. The Root Mean Square Error of the D8 and the absolute point-method results were compared to a reference stream and the absolute point-method showed a significantly higher accuracy. Although this approach is very local, the absolute point-method offers a good alternative if conventional methods do not return satisfying results. It was demonstrated that, mostly in areas with very low topographical relief, the accuracy of this method is significantly higher. This shows the added value of the use of direct point cloud data for hydrological analysis. As hydrological applications become more and more important for proper water contamination management, this research advocates for a broader development of direct point cloud based hydrological tools. Finally, this research provides different suggestions for future research to scale this method. By adopting more efficient data structures and analysis methods for the point cloud, more advanced hydrological methods can become available."
-  speakers: [26]
-  language: ""
+  description: "Isric is gevestigd binnen Wageningen universiteit en beheert naast een collectie bodem profielen ook een een aantal globale datasets rond bodem en landgebruik. Voor het beheer van de applicaties rond deze datasets gebruiken we een geavanceerde gitops workflow in gitlab, docker en kubernetes. In deze presentatie een korte uitleg over de gemaakte keuzes en ervaringen. Maar ook een aantal tips hoe je onze api’s voor diverse doeleinden kunt gebruiken."
+  speakers: [8]
+  language: "Nederlands"
+  
 -
   id: 304
   title: "Snelle BGT import met Docker"
@@ -185,7 +193,37 @@ For a successful OS transition, the initiatives aim to address the Rewards & Rec
   description: "De actuele BGT wordt sinds deze zomer via een API aangeboden, met als idee dat je de mutaties ook live bij kan houden. Bij B3Partners is een tool ontwikkeld waarmee je deze service kan gebruiken om een initiele laadactie te doen, en die (op gewenste momenten) makkelijk ook weer te updaten. Alles wordt geordend in een PostGIS database gezet, waarna in GeoServer je een snelle BGT-service kan maken. Als toefje op de taart zijn ook (werkende!) SLD's gemaakt.<br />
   In deze presentatie wordt dit spektakel live getoond, en er wordt wat toelichting gegeven op de achterliggende tooling."
   speakers: [27]
-  language: ""
+  language: ""  
+-
+  id: 305
+  title: "LandGoed Cloud"
+  subtype: presentation
+  description: "Door slim technieken te combineren is het mogelijk snel een server in de lucht te trekken met daarop een aantal dingen die je als geo nodig hebt. Binnen het tijdsbestek van deze presentatie wordt een server gestart, met PostGIS, GeoServer, en nog meer leuke dingen die je nodig hebt om een online GIS-omgeving te starten. Ideaal voor projecten, testdoeleinden of andere tijdelijke toepassingen."
+  speakers: [10]
+  language: "Nederlands"
+-
+  id: 306
+  title: "Zo gemakkelijk kun je geo-webdiensten uitrollen."
+  subtype: presentation
+  description: "Het installeren en onderhouden van Open Source server-componenten (denk: GeoServer, PostGIS etc) lijkt soms een brug te ver voor velen. De laatste jaren zijn er echter een aantal technologieën beschikbaar die het installeren, maar vooral ook het onderhouden/beheren vergemakkelijken. Het gaat om Cloud technologieën zoals Docker en GitHub. Voor Geonovum heb ik een platform opgezet om webdiensten voor de nieuwe OGC APIs voor Features (denk: WFS versie 3) te draaien. Het doel was om een aantal implementaties uit te proberen, maar vooral ook om de deployment (uitrol) laagdrempelig te maken zodat ook niet-programmeurs/systeem-beheerders dit platform kunnen onderhouden en uitbreiden. Door de combinatie van deze vier technieken is dit een succes geworden: Docker, GitHub, Ansible en GitHub Workflows. Deze zal ik toelichten. De server componenten zijn o.a. GeoServer, pygeoapi, QGIS Server en PostGIS. Meer weten? Uitgebreide documentatie op https://apitestdocs.geonovum.nl en aantal slides op https://files.justobjects.nl/presentation/opengeodag-2021/opengeodag-2021-just.pdf"
+  speakers: [7]
+  language: "Nederlands"  
+-
+  id: 307
+  title: "De nieuwe EU digitale en data regels"
+  subtype: presentation
+  description: "Er is een nieuw Europees juridisch raamwerk voorgesteld, bestaande uit een digitale en datastrategie. De doorontwikkeling van INSPIRE krijgt daarin een plek, maar het raamwerk is veel verstrekkender, en een geopolitieke stellingname van de EU. De komende jaren worden die wetten van kracht, met impact op gebruik van geodata, basisregistraties, open data. Inclusief een heldere band met beleidsthema's van de Green Deal, als energietransitie, klimaatadaptatie, smart mobility, bouwen en voedsel. Een verschuiving in kijken naar data governance, en samenwerking over sectoren en landen heen. Heldere kansen voor FOSS4G om met elkaar eens te bespreken."
+  speakers: [11]
+  language: "Nederlands"
+
+-
+  id: 308
+  title: "De onmisbare rol van open data en GIS in reisfotografie"
+  subtype: presentation
+  description: "Veel geografen en GIS'ers houden van fotografie, en een nog groter aantal houdt van reizen. Of je nu met de auto, fiets, boot of op een ezel de wereld verkent, kaarten zijn onmisbaar voor de reisvoorbereiding en navigatie ter plaatsen. Daarnaast speelt open data een belangrijke rol om de locatie van foto's (zonder coördinaten) te achterhalen. Met als rode draad de ontwikkeling van mijn boek Surprising Europe, neem ik je mee op de creatieve route van reisvoorbereiding tot kaartopmaak en laat ik zien hoe open data en GIS een hoofdrol hebben gespeeld in mijn reizen en werk als landschapsfotograaf. "
+  speakers: [14]
+  language: "NL"
+
 -
   id: 701
   title: "Using the 3D BAG in Python"
@@ -228,5 +266,11 @@ For a successful OS transition, the initiatives aim to address the Rewards & Rec
   Een sterk punt van QGIS is dat je taken naar een hogere functionaliteit kunt brengen met expressies. Expressies kun je niet alleen toepassen bij selectie en veldberekeningen, maar ook op opmaak van lagen en kaarten en project- of laageigenschappen. Je kunt het zo gek niet bedenken of je komt een expressievenster tegen. Supergaaf, en misschien in eerste instantie overweldigend maar daar brengt deze workshop verandering in.<br /><br />
   Neem je eigen laptop mee, met daarop een recente versie van QGIS."
   speakers: [18]
-  language: "NL"
-  
+  language: "NL" 
+-
+  id:  999
+  title: "JOSS is a good place to publish your code"
+  subtype: presentation
+  description: "Overview of the journal, why it's exciting. https://joss.theoj.org/"
+  speakers: [6]
+  language: "English"
