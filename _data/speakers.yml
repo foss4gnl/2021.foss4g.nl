@@ -387,10 +387,10 @@
   id: 33
   name: "Serkan"
   surname: "Girgin"
-  company: "Faculty of Geo-Information Science and Earth Observation (ITC)"
+  company: "Faculty of Geo-Information Science and Earth Observation (ITC)/"
   title: "Assistant Professor"
   bio: ""
   thumbnailUrl: serkangirgin.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/serkan-girgin/
+    - {name: "linkedin", link: "https://www.linkedin.com/in/serkan-girgin/"
   rockstar: true
