@@ -101,7 +101,7 @@
   id: 8
   name: "Paul"
   surname: "van Genuchten"
-  company: "GeoCat"
+  company: "ISRIC"
   title: ""
   bio: ""
   thumbnailUrl: PaulvanGenuchten.jpg
@@ -331,7 +331,7 @@
   surname: "Tempelaars"
   company: "Veiligheidsregio Brabant Zuidoost"
   title: "Operationele informatie Geo-data Geo-applicatie"
-  bio: ""
+  bio: "Werkzaam als Geo-beheerder bij Veiligheidsregio Brabant Zuidoost. Daar draag ik zorg dat Geo-informatie bruikbaar is binnen de Veiligheidsregio. Dit doe ik op een verbindende manier met diverse Veiligheidsregio’s in het land. Mijn denklijn ligt daardoor ook vooral bij het gebruik van open source software."
   thumbnailUrl: joachim.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/tempelaars-joachim-21097164/"}

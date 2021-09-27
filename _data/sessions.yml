@@ -98,9 +98,11 @@
   language: ""
 -
   id: 108
-  title: "OIV plugin, QGIS bij de brandweer"
+  title: "QGIS-OIV, een tool voor het maken van repressieve objectinformatie"
   subtype: presentation
-  description: "-"
+  description: "Om objectinformatie te kunnen maken, gebruiken we het programma QGIS met de plug-in OIV 3.3.4 Eindhoven binnen de Veiligheidsregio Brabant Zuidoost.<br /><br />
+  De plug-in OIV 3.3.4 staat voor Operationele Informatie Voorziening, versie 3.3.4. Het vereenvoudigt bestaande en voegt nieuwe functionaliteit toe aan QGIS. Door de samenwerking met diverse andere veiligheidsregio’s, is er ondertussen een standaard voor objectinformatie afgesproken. Deze standaard beschrijft welke  informatie op welke wijze wordt vastgelegd. Dit heeft er vervolgens weer toe geleid dat we op dit moment samen met GeoNovum het InformatieModel Repressieve ObjectInformatie (IMROI) vastleggen.<br /><br />
+  Met deze plug-in kunnen we nu gebouwen, gebieden, watergebieden, evenementen en natuurgebieden vastleggen volgens de landelijke standaard. Bovendien zorgt de plug-in ervoor dat het eenvoudiger en efficiënter gedaan kan worden door tekenaars van repressieve objectinformatie."
   speakers: [29]
   language: "NL"
 -
