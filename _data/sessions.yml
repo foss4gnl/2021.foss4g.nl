@@ -70,9 +70,11 @@
   language: "NL"
 -
   id: 104
-  title: "-"
+  title: "Van Oord belandt niet tussen wal en schip met Open source GIS"
   subtype: presentation
-  description: "-"
+  description: "In deze presentatie ga ik in op de oplossing die Van Oord heeft gekozen op het gebied van open source gis. Daarnaast kijken we naar toekomstige kansen en uitdagingen die het gebruik van open source GIS software met zich meebrengen.
+
+"
   speakers: [28]
   language: "NL"
 -
