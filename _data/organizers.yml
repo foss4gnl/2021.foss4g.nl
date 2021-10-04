@@ -3,9 +3,9 @@
    elements: 
      - {
         name: "OSGeoNL",
-        description: "De stichting die de belangen van ppensource-Geo behartigt",
+        description: "De stichting die de belangen van opensource-geo behartigt",
         link: "http://osgeo.nl",
-        imageUrl: "osgeo-emblem-64x64.png"
+        imageUrl: "ms-icon-144x144.png"
         }
 # - 
 #   group: "Co-organizers"
