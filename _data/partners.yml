@@ -1,5 +1,5 @@
 - 
-  group: "Locatie"
+  group: "Goud"
   elements: 
     - {
         name: "ITC", 
@@ -7,8 +7,6 @@
         link: "https://www.itc.nl/", 
         imageUrl: "itc-logo@2x.png"
       }
-  group: "Goud"
-  elements: 
     - {
         name: "OpenGeoGroep", 
         description: "", 
