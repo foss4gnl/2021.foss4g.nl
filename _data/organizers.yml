@@ -1,7 +1,12 @@
  - 
    group: "Main organizer"
    elements: 
-     - {name: "OSGeoNL", description: "De stichting die de belangen van ppensource-Geo behartigt", link: "http://osgeo.nl", imageUrl: "compass.svg"}
+     - {
+        name: "OSGeoNL",
+        description: "De stichting die de belangen van ppensource-Geo behartigt",
+        link: "http://osgeo.nl",
+        imageUrl: "osgeo-emblem-64x64.png"
+        }
 # - 
 #   group: "Co-organizers"
 #   elements: 

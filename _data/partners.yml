@@ -1,4 +1,12 @@
 - 
+  group: "Locatie"
+  elements: 
+    - {
+        name: "ITC", 
+        description: "", 
+        link: "https://www.itc.nl/", 
+        imageUrl: "itc-logo@2x.png"
+      }
   group: "Goud"
   elements: 
     - {
