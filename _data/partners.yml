@@ -44,6 +44,12 @@
   group: "Brons"
   elements:
     - {
+        name: "Locate Press", 
+        description: "", 
+        link: "https://locatepress.com/", 
+        imageUrl: "locate_press_log_v3_tag.png"
+      }
+    - {
         name: "Ruimteschepper", 
         description: "", 
         link: "https://www.ruimteschepper.nl/", 
