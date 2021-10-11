@@ -298,7 +298,7 @@
   surname: "Ticheloven"
   company: ""
   title: ""
-  bio: ""
+  bio: "Afgelopen maand heb ik de masteropleiding GIMA afgerond. GIMA heeft mij veel geleerd ik kan omgaan met verschillende softwarepakketten en over alle toepassing van GIS. Als kers op de taart heb ik voor mijn scriptie heb ik een model ontwikkeld om waterafstroming te modelleren met LiDAR-data met QGIS. Daarbij heb ik verschillende methoden ontdekt waarmee point-cloud datasets geanalyseerd kunnen worden. Vanaf 1 november ga ik starten met mijn eerste baan als consultant voor de publieke sector bij PwC."
   thumbnailUrl: stijn_ticheloven.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/stijnticheloven"}
