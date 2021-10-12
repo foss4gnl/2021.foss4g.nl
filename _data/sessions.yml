@@ -43,7 +43,9 @@
   id: 902
   title: "Closing Keynote"
   subtype: presentation
-  description: "-"
+  description: "QGIS releases three new versions per year. With each there is a long list of new features. This presentation will give a visual overview of some of the best new features released over the last calendar year.  Topics include: <br />
+User interface enhancements * Go-To Locator * Attribute tables * Symbology * Labeling * Print composer * Processing * Improvements in the expression engine * Digitizing * Graphical modeler * QGIS 3D * support for Point clouds. <br /><br />
+Come and learn about how far QGIS has evolved in the last year!"
   speakers: [2]
   language: "EN"
 
