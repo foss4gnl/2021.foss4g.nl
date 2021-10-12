@@ -189,7 +189,7 @@ Come and learn about how far QGIS has evolved in the last year!"
   id: 303
   title: "Bodem data hub op basis van open source"
   subtype: presentation
-  description: "Stichting Isric - world soil information in Wageningen beheert naast een collectie bodemprofielen ook een een aantal globale datasets rond bodem en landgebruik. Voor het beheer van de applicaties rond deze datasets gebruiken we een geavanceerde gitops workflow in gitlab, docker en kubernetes. In deze presentatie een korte uitleg over de gemaakte keuzes en ervaringen. Maar ook een aantal tips hoe je onze api’s voor diverse doeleinden kunt gebruiken."
+  description: "Stichting Isric - world soil information in Wageningen beheert naast een collectie bodemprofielen ook een aantal globale datasets rond bodem en landgebruik. Voor het beheer van de applicaties rond deze datasets gebruiken we een geavanceerde gitops workflow in gitlab, docker en kubernetes. In deze presentatie een korte uitleg over de gemaakte keuzes en ervaringen. Maar ook een aantal tips hoe je onze api’s voor diverse doeleinden kunt gebruiken."
   speakers: [8]
   language: "NL"
 -
