@@ -73,19 +73,6 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/emacgillavry"}
   rockstar: true
 -
-  id: 6
-  name: "Hugo"
-  surname: "Ledoux"
-  company: "Technische Universiteit Delft"
-  title: ""
-  bio: ""
-  thumbnailUrl: HugoLedoux.jpg
-  social: 
-    - {name: "site", link: "https://3d.bk.tudelft.nl"}
-    - {name: "twitter", link: "https://www.twitter.com/hugoledoux"}
-    - {name: "twitter", link: "https://www.twitter.com/tudelft3d"}
-  rockstar: true
--
   id: 7
   name: "Just"
   surname: "van den Broecke"
@@ -142,17 +129,6 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/ton_zylstra"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/tonzijlstra"}
-  rockstar: true
--
-  id: 12
-  name: "Marco"
-  surname: "van Antwerpen"
-  company: "Provincie Zeeland"
-  title: ""
-  bio: ""
-  thumbnailUrl: marco_van_antwerpen.jpg
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/marco-van-antwerpen-682ab566"}
   rockstar: true
 -
   id: 13
