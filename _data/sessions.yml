@@ -152,9 +152,11 @@ Come and learn about how far QGIS has evolved in the last year!"
   language: "EN"
 -
   id: 206
-  title: "OpenDataCube"
+  title: "Open Data Cube: een open aardobservatie engine die je kunt bezitten"
   subtype: presentation
-  description: "-"
+  description: "Hoe zou je een jaar aan satellietbeelden op stadsniveau verwerken? Of op continentaal niveau? En hoe zou je andere mensen daartoe kunnen bewegen?<br /><br />
+Open Data Cube is een software voor rastergegevensbeheer en -analyse, bedoeld om vrij en onafhankelijk te zijn. Met enige Python kennis kan men aan de slag met één van de online platforms. Maar met een beetje meer vertrouwen kunt u echter uw eigen kleine (of grote) data cube opzetten. Open Data Cube is geïnitieerd door de Australische overheid, maar heeft sindsdien ook een internationale gemeenschap verworven.<br /><br />
+In deze presentatie wil ik een overzicht geven van het ODC project en enkele use cases - inclusief een kijkje onder de motorkap."
   speakers: [17]
   language: "EN/NL"
 -
