@@ -80,7 +80,7 @@ Come and learn about how far QGIS has evolved in the last year!"
   speakers: [28]
   language: "NL"
 -
-  id: 105
+  id: 206
   title: "WAPLUGIN: Water Accounting and Productivity Plugin"
   subtype: presentation
   description: "The WAPLUGIN is a tool created on the open-source software QGIS to compute water accounting and crop water productivity indicators based on WaPOR data, FAO's open-access remote-sensing database. The plugin creates a bridge between WaPOR information and QGIS and offers tools to process and calculate the indicators, such as the overall consumed ratio, the depleted fraction, and the overall field application ratio. Most of these water accounting and productivity indicators reflect the impact that agriculture has on water resources. Hence, their analysis will help identify specific issues that can be addressed by policymakers, large scheme irrigation managers, river basin authorities, water professionals, among others. It is possible to access the WAPLUGIN as any other QGIS plugin. Moreover, it has two main features: the WaPOR Catalog and the Indicator Calculator. On the one hand, the first feature can bring data from WaPOR to QGIS, providing direct access to the entire catalog, and the selection will depend on the user specifications (date, location, parameter, resolution). The selected data will then appear on the canvas as a raster layer. On the other hand, the plugin's second feature calculates some of the essential water accounting and productivity indicators based on WaPOR data. The first feature must specify the primary data like date, location, resolution, and units as in the first feature. Depending on the indicator, the input data can also include information provided by the user, apart from the WaPOR data.<br /><br /> Finally, the resulting indicator will be added as a raster layer in the QGIS canvas, facilitating access to WaPOR data for QGIS users and providing good compatibility with the QGIS tools for further processing.The WAPLUGIN is an innovative tool facilitating water accounting and productivity analysis by bringing together two powerful open-source platforms for the water and remote sensing community. The plugin enables the easy access and processing of WaPOR data, making this less time-consuming for GIS analysts. Furthermore, the indicators will support users by generating maps and reports for further assessment and evaluation, identifying the places of high and low irrigation efficiency and the crop and water productivity behavior. Hence, it will be an excellent option for tracking an irrigation scheme's performance, making the water accounting computation by water professionals simple and easy to use."
@@ -151,7 +151,7 @@ Come and learn about how far QGIS has evolved in the last year!"
   speakers: [23]
   language: "EN"
 -
-  id: 206
+  id: 105
   title: "OpenDataCube"
   subtype: presentation
   description: "-"
